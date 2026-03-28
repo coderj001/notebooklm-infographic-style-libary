@@ -16,7 +16,7 @@ Visual identity: Wavy rainbow borders, peace signs, mushrooms, daisies, organic 
 Composition: Fluid compartmentalized layout with a central hub and radiating sections, uniform high-key lighting, gradient text fills, oversized rounded typography with drop shadows.
 Typography: Chunky bubble-style rounded sans serif headings, rounded sans serif body, heavy outlines for readability on busy backgrounds.
 Categories: Psychedelic, Retro Pop, 70s Aesthetic, Flower Power, Maximalist.
-Prompt
+**Prompt**
 ```
 Overall Design Settings:
 
@@ -61,8 +61,8 @@ Categories:
 Tags: ["Psychedelic", "Retro Pop", "70s Aesthetic", "Flower Power", "Maximalist"]
 
 ```
-Demo image
-https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7
+**Demo image**
+- ![Playful pastel education preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7)
 
 ### 2) Gatsby / Art Deco luxury style
 Tone: Sophisticated, authoritative, opulent, dramatic.
@@ -70,8 +70,7 @@ Palette: Background `#050507`, text `#F2E6CF`, accent `#D4AF37`.
 Visual identity: Intricate geometric borders, fan motifs, metallic gradients, ornamental framing, Art Deco cues.
 Typography & image style: Ornate serif headings paired with restrained serifs; metallic finishes and dramatic lighting to emphasize luxury.
 Categories: Gatsby, Art Deco, Luxury, Noir, Cinematic.
-Prompt
-: Paste the full NotebookLM style block when available for easiest reuse.
+**Prompt**
 ```
 Overall Design Settings:
 Tone: "Sophisticated, Authoritative, Opulent, Dramatic, Symbolic"
@@ -100,10 +99,9 @@ Language Styling: "English dominating and French subtitles in smaller uppercase 
 Categories:
 Tags: ["Gatsby", "Art Deco", "Luxury", "Noir", "Ornamental", "Cinematic"]
 
-
 ```
-Demo image
-https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0
+**Demo image**
+- ![Gatsby / Art Deco luxury preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0)
 
 ### 3) Isometric textbook diagram style
 Tone: Educational, diagrammatic, explanatory.
@@ -112,9 +110,9 @@ Visual identity: Isometric 3D block diagrams, node-tree structures, dashed flow 
 Composition: Two-column layout combining explanatory text with illustrative diagrams for a textbook feel.
 Typography: Utilitarian sans serif for clarity, minimal decorative treatment.
 Categories: Educational, Textbook, Diagram, Technical.
-Prompt
-: Paste the full NotebookLM style block when available for easiest reuse.
-```Overall Design Settings:
+**Prompt**
+```
+Overall Design Settings:
 Tone: "Educational, authoritative, structured, precise, and diagrammatic"
 
 Visual Identity:
@@ -142,8 +140,8 @@ Categories:
 Tags: ["Educational", "Isometric", "Technical Schematic", "Clean UI", "Data Visualization"]
 
 ```
-Demo image
-https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-mp85uvbnl3dg1.png?width=1080&crop=smart&auto=webp&s=1feb2003c0ae489560036a588dd47e1d08e6addd
+**Demo image**
+- ![Isometric textbook diagram preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-mp85uvbnl3dg1.png?width=1080&crop=smart&auto=webp&s=1feb2003c0ae489560036a588dd47e1d08e6addd)
 
 ### 4) Clay stop-motion explainer style
 Tone: Whimsical, approachable, educational with tactile warmth.
