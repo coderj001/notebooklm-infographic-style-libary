@@ -282,6 +282,7 @@ The excerpts below reflect every publicly described style that the compiled docu
    - Visual identity: Wavy rainbow borders, nature motifs, thick outlines, radiating sunbursts.
    - Prompt: copy the block under “Playful pastel education” above.
    - Demo image: ![Playful pastel education preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7)
+   - Full screen preview: https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7
 
 2. **Gatsby / Art Deco luxury style** (Prompt capsule 5)
    - Tone: Sophisticated, authoritative, opulent, dramatic.
@@ -289,6 +290,7 @@ The excerpts below reflect every publicly described style that the compiled docu
    - Visual identity: Intricate geometric borders, fan motifs, metallic gradients.
    - Prompt: copy the block under “Gatsby / Art Deco luxury style” above.
    - Demo image: ![Gatsby / Art Deco luxury preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0)
+   - Full screen preview: https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0
 
 3. **Isometric textbook diagram style** (Prompt capsule 6)
    - Tone: Educational, diagrammatic, precise.
@@ -296,6 +298,7 @@ The excerpts below reflect every publicly described style that the compiled docu
    - Visual identity: Isometric 3D blocks, dashed flows, grid texture.
    - Prompt: copy the block under “Isometric textbook diagram style” above.
    - Demo image: ![Isometric textbook diagram preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-mp85uvbnl3dg1.png?width=1080&crop=smart&auto=webp&s=1feb2003c0ae489560036a588dd47e1d08e6addd)
+   - Full screen preview: https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-mp85uvbnl3dg1.png?width=1080&crop=smart&auto=webp&s=1feb2003c0ae489560036a588dd47e1d08e6addd
 
 4. **Clay stop-motion explainer style**
    - Tone: Whimsical, approachable, tactile.
