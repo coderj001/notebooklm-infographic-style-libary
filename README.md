@@ -53,7 +53,7 @@ Categories:
 Tags: ["Psychedelic", "Retro Pop", "70s Aesthetic", "Flower Power", "Maximalist"]
 ```
 
-[Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7)
+![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7)
 
 2. **Competitive versus action**
 ```
@@ -83,7 +83,7 @@ Categories:
 Tags: ["Gamification", "Anime Aesthetic", "Versus Mode", "High-Energy", "Cyber vs Traditional"]
 ```
 
-[Preview Images](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-q1mntubnl3dg1.png?width=1080&crop=smart&auto=webp&s=299a57af2c012d64460eaea04aad18473485541a)
+![Preview Images](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-q1mntubnl3dg1.png?width=1080&crop=smart&auto=webp&s=299a57af2c012d64460eaea04aad18473485541a)
 
 3. **Denim craft instructional**
 ```
@@ -128,6 +128,7 @@ Effect: "Stitched thread texture with slight drop shadow"
 Categories:
 Tags: ["Skeuomorphic", "Textured", "Craft", "Denim", "Industrial"]
 ```
+![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-88d6vu3ql3dg1.png?width=1080&crop=smart&auto=webp&s=b152222fca480b6287b239f5ca9b9f367ba361fc)
 
 4. **Mythological instruction scroll**
 ```
@@ -175,6 +176,8 @@ Categories:
 Tags: ["Ancient Egyptian", "Historical Allegory", "Retro-Futurism", "Instructional Scroll", "Flat Illustration"]
 ```
 
+![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-9ngv5vbnl3dg1.png?width=1080&crop=smart&auto=webp&s=cd5ec6606b19c967bd6813fab1437f55194e56f8)
+
 5. **Gatsby / Art Deco luxury style**
 ```
 Overall Design Settings:
@@ -205,6 +208,8 @@ Categories:
 Tags: ["Gatsby", "Art Deco", "Luxury", "Noir", "Ornamental", "Cinematic"]
 ```
 
+![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0)
+
 6. **Isometric textbook diagram style**
 ```
 Overall Design Settings:
@@ -234,6 +239,8 @@ Emphasis: "Bold weights used for key concepts within body text"
 Categories:
 Tags: ["Educational", "Isometric", "Technical Schematic", "Clean UI", "Data Visualization"]
 ```
+
+![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0)
 
 7. **Knolling pastel flat lay**
 ```
@@ -276,6 +283,8 @@ Labeling: "Contextual, placed directly on objects (sticky notes, screens)"
 Categories:
 Tags: ["Knolling", "Split-Screen", "Pastel", "Flat Lay", "Minimalist"]
 ```
+
+![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-d8k5re5ql3dg1.png?width=1080&crop=smart&auto=webp&s=33cec4a73aa21cd5b5f6ab93e49f7306381a23b7)
 
 ## Usage guidance
 Copy the descriptive block of one of these styles (from the prompt capsules or the source posts mentioned above) into NotebookLM’s custom style field to align your infographic or slide deck output with the intended aesthetic. Focus on the palette, motifs, textures, typography, and category cues to preserve each style’s visual DNA.
