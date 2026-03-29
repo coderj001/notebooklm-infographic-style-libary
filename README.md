@@ -318,7 +318,7 @@ Tags: ["Manga Style", "Comic Strip", "Instructional", "Monochrome", "Dynamic Act
 ```
 
 Preview image:  
-`![Manga Action Panels](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png)` [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+![Manga Action Panels](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png) [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
 
 9. **Corporate Radial Timeline**
 
@@ -352,7 +352,7 @@ Tags: ["Corporate", "Infographic", "Process Flow", "Clean Design", "Radial Layou
 ```
 
 Preview image:  
-`![Corporate Radial Timeline](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png)` [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+![Corporate Radial Timeline](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png) [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
 
 10. **Neon Tech Flowchart**
 
@@ -386,7 +386,7 @@ Tags: ["Cyberpunk", "Dark Mode", "Tech-Infographic", "Neon-Glow", "Process-Flow"
 ```
 
 Preview image:  
-`![Neon Tech Flowchart](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png)` [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+![Neon Tech Flowchart](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png) [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
 
 11. **Minimal Data Dashboard**
 
@@ -418,7 +418,7 @@ Tags: ["Dashboard", "Analytics", "Minimalist", "Data-First", "Corporate"]
 ```
 
 Preview image:  
-`![Minimal Data Dashboard](https://dummyimage.com/800x450/f8fafc/111827&text=Minimal+Data+Dashboard)`
+![Minimal Data Dashboard](https://dummyimage.com/800x450/f8fafc/111827&text=Minimal+Data+Dashboard)
 
 12. **Gradient Funnel Journey**
 
@@ -449,7 +449,7 @@ Tags: ["Marketing", "Funnel", "Customer Journey", "Conversion", "Business"]
 ```
 
 Preview image:  
-`![Gradient Funnel Journey](https://dummyimage.com/800x450/ffffff/111827&text=Gradient+Funnel+Journey)`
+![Gradient Funnel Journey](https://dummyimage.com/800x450/ffffff/111827&text=Gradient+Funnel+Journey)
 
 13. **Classroom Chalkboard Diagram**
 
@@ -479,7 +479,7 @@ Tags: ["Education", "Mind Map", "Whiteboard", "Hand-Drawn", "Lessons"]
 ```
 
 Preview image:  
-`![Classroom Chalkboard Diagram](https://dummyimage.com/800x450/1f2933/f9fafb&text=Classroom+Chalkboard+Diagram)`
+![Classroom Chalkboard Diagram](https://dummyimage.com/800x450/1f2933/f9fafb&text=Classroom+Chalkboard+Diagram)
 
 14. **Product One‑Pager Sheet**
 
@@ -509,7 +509,7 @@ Tags: ["Product Sheet", "Sales", "SaaS", "One-Pager", "Marketing Collateral"]
 ```
 
 Preview image:  
-`![Product One‑Pager Sheet](https://dummyimage.com/800x450/f5f5f5/111111&text=Product+One-Pager+Sheet)`
+![Product One‑Pager Sheet](https://dummyimage.com/800x450/f5f5f5/111111&text=Product+One-Pager+Sheet)
 
 15. **Circular Ecosystem Map**
 
@@ -539,7 +539,7 @@ Tags: ["Ecosystem", "Systems Map", "Strategy", "Conceptual", "Overview"]
 ```
 
 Preview image:  
-`![Circular Ecosystem Map](https://dummyimage.com/800x450/ffffff/111827&text=Circular+Ecosystem+Map)`
+![Circular Ecosystem Map](https://dummyimage.com/800x450/ffffff/111827&text=Circular+Ecosystem+Map)
 
 
 ## Usage guidance
