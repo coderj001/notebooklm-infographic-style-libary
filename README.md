@@ -286,6 +286,262 @@ Tags: ["Knolling", "Split-Screen", "Pastel", "Flat Lay", "Minimalist"]
 
 ![Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-d8k5re5ql3dg1.png?width=1080&crop=smart&auto=webp&s=33cec4a73aa21cd5b5f6ab93e49f7306381a23b7)
 
+8. **Manga Action Panels**
+
+```text
+Overall Design Settings:
+Tone: "Energetic, dramatic, educational, expressive, action-oriented"
+
+Visual Identity:
+Background Color: "#FFFFFF"
+Text Color: "#000000"
+Accent Color: "#FF3333"
+Secondary Colors: ["#E0E0E0", "#999999", "#505050"]
+
+Image Style:
+Features: "Manga-inspired character art, speed lines (beta flash), jagged speech bubbles, sound effect text visualization, halftone shading patterns"
+Texture: "Newsprint/Manga paper feel, dot screen shading, ink brush strokes"
+Composition: "Sequential panel layout (top-down flow), dynamic framing with characters breaking frame boundaries, high-density information clustering"
+Lighting: "High-contrast ink rendering, dramatic shading using cross-hatching and screentones, glowing energy effects"
+Line Work: "Variable width ink nib style, sharp and expressive"
+Shading Technique: "Halftone dots and linear hatching"
+Visual Effects: "Speed lines, starbursts, and impact flashes"
+
+Typography:
+Heading: "Heavy Impact Gothic / Manga Sound Effect Style"
+Body Font: "Clean Sans-Serif (legible inside speech bubbles)"
+Text Styling: "White outer glow or stroke for contrast against busy backgrounds"
+Emphasis: "Variable sizing and jagged edges for shouted or emphasized words"
+
+Categories:
+Tags: ["Manga Style", "Comic Strip", "Instructional", "Monochrome", "Dynamic Action"]
+```
+
+Preview image:  
+`![Manga Action Panels](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png)` [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+
+9. **Corporate Radial Timeline**
+
+```text
+Overall Design Settings:
+Tone: "Professional, Structured, Instructional, Clear, Organizational"
+
+Visual Identity:
+Background Color: "#FFFFFF"
+Text Color: "#333333"
+Accent Color: "#008B8B"
+Secondary Colors: ["#8E44AD", "#2E4053", "#27AE60", "#F1C40F", "#C0392B"]
+
+Image Style:
+Features: "Semi-circular timeline, segmented process arc, flat vector iconography, numbered milestones, directional arrows"
+Texture: "Flat, smooth, vector-clean, matte finish"
+Composition: "Radial symmetry, centered arch, radiating text clusters, step-by-step flow visualization"
+Lighting: "Flat illustration style, uniform illumination, no gradients or drop shadows"
+Iconography: "White simple glyphs inside colored segments"
+Connectors: "Thin colored directional lines connecting segments to text blocks"
+Central Element: "Human-centric silhouette icon illustrating care or support"
+
+Typography:
+Heading: "Modern Sans-Serif (e.g., Lato, Roboto), Bold weight"
+Body: "Clean Sans-Serif, regular weight for descriptions"
+Sub-headings: "Colored Sans-Serif matching segment color"
+Numerals: "White, sans-serif, centered in circular badges"
+
+Categories:
+Tags: ["Corporate", "Infographic", "Process Flow", "Clean Design", "Radial Layout"]
+```
+
+Preview image:  
+`![Corporate Radial Timeline](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png)` [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+
+10. **Neon Tech Flowchart**
+
+```text
+Overall Design Settings:
+Tone: "Futuristic, analytical, sophisticated, instructional with a high-tech aesthetic"
+
+Visual Identity:
+Background Color: "#080a12"
+Text Color: "#FFFFFF"
+Accent Color: "#00C4FA"
+Secondary Colors: ["#9D4EDD", "#1F253A", "#4A536B", "#2D3446"]
+
+Image Style:
+Features: "Glowing borders, rounded rectangular containers, directional flow arrows, schematic icons (brain, code, charts), faint circuit-board background patterns"
+Texture: "Smooth digital matte with luminescent neon edges and semi-transparent glassmorphic container fills"
+Composition: "Structured logical flowchart arranged hierarchically from top to bottom and left to right, using containment zones to group related concepts"
+Lighting: "Dark ambient environment illuminated by self-emitting neon strokes (cyan and purple) creating high contrast against the dark background"
+Border Style: "Rounded corners with outer glow"
+Background Pattern: "Subtle abstract circuit lines"
+Iconography: "Line art with gradient fills"
+
+Typography:
+Heading: "Modern Sans-Serif (Bold/Heavy)"
+Body Text: "Clean Sans-Serif (Regular)"
+Readability: "High contrast white on dark"
+Alignment: "Centered headings, left-aligned body"
+
+Categories:
+Tags: ["Cyberpunk", "Dark Mode", "Tech-Infographic", "Neon-Glow", "Process-Flow"]
+```
+
+Preview image:  
+`![Neon Tech Flowchart](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png)` [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+
+11. **Minimal Data Dashboard**
+
+```text
+Overall Design Settings:
+Tone: "Calm, analytical, minimalist, data-focused"
+
+Visual Identity:
+Background Color: "#F8FAFC"
+Text Color: "#111827"
+Accent Color: "#2563EB"
+Secondary Colors: ["#0EA5E9", "#22C55E", "#F97316", "#6B7280"]
+
+Image Style:
+Features: "Clean KPI cards, simple line and bar charts, subtle grid, icon + metric pairs"
+Texture: "Flat, soft shadows, very light card elevation"
+Composition: "Central hero KPI row with supporting charts below, clear left-to-right reading flow"
+Lighting: "Soft, neutral daylight feel with minimal depth"
+Border Style: "Rounded rectangles with 1px neutral strokes"
+Background Pattern: "Very faint grid or dots behind charts"
+
+Typography:
+Heading: "Geometric Sans-Serif (e.g., Inter, SF Pro), Semi-bold"
+Body Text: "Sans-Serif, Regular"
+Emphasis: "Color and slight size increase for key metrics"
+
+Categories:
+Tags: ["Dashboard", "Analytics", "Minimalist", "Data-First", "Corporate"]
+```
+
+Preview image:  
+`![Minimal Data Dashboard](https://dummyimage.com/800x450/f8fafc/111827&text=Minimal+Data+Dashboard)`
+
+12. **Gradient Funnel Journey**
+
+```text
+Overall Design Settings:
+Tone: "Marketing-focused, persuasive, structured, conversion-oriented"
+
+Visual Identity:
+Background Color: "#FFFFFF"
+Text Color: "#111827"
+Accent Color: "#EC4899"
+Secondary Colors: ["#A855F7", "#6366F1", "#22C55E"]
+
+Image Style:
+Features: "Vertical funnel with 4–6 layers, icons per stage, conversion arrows, percentage callouts"
+Texture: "Smooth gradients, soft glow on funnel edges"
+Composition: "Tall central funnel, stage descriptions aligned left and right, CTA panel at bottom"
+Lighting: "Subtle top-down light reinforcing the gradient direction"
+Border Style: "Soft inner shadow on funnel segments"
+
+Typography:
+Heading: "Modern Sans-Serif, Extra Bold"
+Body Text: "Sans-Serif, Regular"
+Emphasis: "Color-coded stage titles matching funnel segments"
+
+Categories:
+Tags: ["Marketing", "Funnel", "Customer Journey", "Conversion", "Business"]
+```
+
+Preview image:  
+`![Gradient Funnel Journey](https://dummyimage.com/800x450/ffffff/111827&text=Gradient+Funnel+Journey)`
+
+13. **Classroom Chalkboard Diagram**
+
+```text
+Overall Design Settings:
+Tone: "Educational, friendly, hand-drawn, approachable"
+
+Visual Identity:
+Background Color: "#1F2933"
+Text Color: "#F9FAFB"
+Accent Color: "#FBBF24"
+Secondary Colors: ["#34D399", "#60A5FA", "#F97373"]
+
+Image Style:
+Features: "Chalk-style icons, hand-drawn arrows, underlines, doodles, sticky-note callouts"
+Texture: "Chalkboard grain with subtle noise, chalk smudges"
+Composition: "Central mind-map node with branches to key ideas, labels around edges"
+Lighting: "Soft vignette towards the edges, brighter center focus"
+
+Typography:
+Heading: "Handwritten chalk font or script-like Sans"
+Body Text: "Clean Sans-Serif mimicking neat handwriting"
+Emphasis: "Colored chalk highlights, circles, and underlines"
+
+Categories:
+Tags: ["Education", "Mind Map", "Whiteboard", "Hand-Drawn", "Lessons"]
+```
+
+Preview image:  
+`![Classroom Chalkboard Diagram](https://dummyimage.com/800x450/1f2933/f9fafb&text=Classroom+Chalkboard+Diagram)`
+
+14. **Product One‑Pager Sheet**
+
+```text
+Overall Design Settings:
+Tone: "Product-centric, concise, sales-ready, modern"
+
+Visual Identity:
+Background Color: "#F5F5F5"
+Text Color: "#111111"
+Accent Color: "#FF6B35"
+Secondary Colors: ["#4F46E5", "#10B981", "#6B7280"]
+
+Image Style:
+Features: "Hero product mockup, feature checklist, 3-column benefits row, pricing badge"
+Texture: "Flat with occasional photo-real product image"
+Composition: "Top hero banner, middle feature grid, bottom CTA and contact block"
+Lighting: "Bright, studio-style lighting on product visuals"
+
+Typography:
+Heading: "Bold Sans-Serif (e.g., Montserrat, Poppins)"
+Body Text: "Sans-Serif, Regular"
+Emphasis: "Colored labels, small caps for section titles"
+
+Categories:
+Tags: ["Product Sheet", "Sales", "SaaS", "One-Pager", "Marketing Collateral"]
+```
+
+Preview image:  
+`![Product One‑Pager Sheet](https://dummyimage.com/800x450/f5f5f5/111111&text=Product+One-Pager+Sheet)`
+
+15. **Circular Ecosystem Map**
+
+```text
+Overall Design Settings:
+Tone: "Strategic, holistic, systems-thinking, explanatory"
+
+Visual Identity:
+Background Color: "#FFFFFF"
+Text Color: "#111827"
+Accent Color: "#16A34A"
+Secondary Colors: ["#0EA5E9", "#F97316", "#6366F1", "#64748B"]
+
+Image Style:
+Features: "Concentric circles or orbit rings, category nodes, connecting lines, small icons per node"
+Texture: "Flat with occasional subtle gradient on main circle"
+Composition: "Core concept in center, 4–8 outer nodes spaced evenly in a ring"
+Lighting: "Very subtle radial highlight from the center outward"
+
+Typography:
+Heading: "Modern Sans-Serif, Bold"
+Body Text: "Sans-Serif, Regular"
+Emphasis: "Color-coded node titles tied to legend"
+
+Categories:
+Tags: ["Ecosystem", "Systems Map", "Strategy", "Conceptual", "Overview"]
+```
+
+Preview image:  
+`![Circular Ecosystem Map](https://dummyimage.com/800x450/ffffff/111827&text=Circular+Ecosystem+Map)`
+
+
 ## Usage guidance
 Copy the descriptive block of one of these styles (from the prompt capsules or the source posts mentioned above) into NotebookLM’s custom style field to align your infographic or slide deck output with the intended aesthetic. Focus on the palette, motifs, textures, typography, and category cues to preserve each style’s visual DNA.
 
