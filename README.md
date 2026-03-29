@@ -318,7 +318,7 @@ Tags: ["Manga Style", "Comic Strip", "Instructional", "Monochrome", "Dynamic Act
 ```
 
 Preview image:  
-![Manga Action Panels](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png) [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+![Manga Action Panels](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-6onglksrvwdg1.png?width=1080&crop=smart&auto=webp&s=20fff2efbadf52e80318f9b67c880307ac6dd62c) 
 
 9. **Corporate Radial Timeline**
 
@@ -352,7 +352,7 @@ Tags: ["Corporate", "Infographic", "Process Flow", "Clean Design", "Radial Layou
 ```
 
 Preview image:  
-![Corporate Radial Timeline](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png) [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+![Corporate Radial Timeline](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-ogyrk6orvwdg1.png?width=1080&crop=smart&auto=webp&s=aebe50273b339e84ad4cce0c65e40ab50d9dc231) 
 
 10. **Neon Tech Flowchart**
 
@@ -386,7 +386,7 @@ Tags: ["Cyberpunk", "Dark Mode", "Tech-Infographic", "Neon-Glow", "Process-Flow"
 ```
 
 Preview image:  
-![Neon Tech Flowchart](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-0e495rzqa9eg1.png) [reddit](https://www.reddit.com/r/notebooklm/comments/1qfd9yr/8_incredible_notebooklm_infographic_styles/)
+![Neon Tech Flowchart](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-8zk43yrrvwdg1.png?width=1080&crop=smart&auto=webp&s=cddff70684091bd9bf21e8fbeab2426c8e270904) 
 
 11. **Minimal Data Dashboard**
 
@@ -418,7 +418,7 @@ Tags: ["Dashboard", "Analytics", "Minimalist", "Data-First", "Corporate"]
 ```
 
 Preview image:  
-![Minimal Data Dashboard](https://dummyimage.com/800x450/f8fafc/111827&text=Minimal+Data+Dashboard)
+![Minimal Data Dashboard](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-gqitljrrvwdg1.png?width=1080&crop=smart&auto=webp&s=b0ee5c8bd4c17e782843a04a63b3d0b6ffc8989c)
 
 12. **Gradient Funnel Journey**
 
@@ -449,7 +449,7 @@ Tags: ["Marketing", "Funnel", "Customer Journey", "Conversion", "Business"]
 ```
 
 Preview image:  
-![Gradient Funnel Journey](https://dummyimage.com/800x450/ffffff/111827&text=Gradient+Funnel+Journey)
+![Gradient Funnel Journey](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-aec96jsrvwdg1.png?width=1080&crop=smart&auto=webp&s=f7c71d758b3801ea7b7c292336218d6143bb4dd7)
 
 13. **Classroom Chalkboard Diagram**
 
@@ -479,7 +479,7 @@ Tags: ["Education", "Mind Map", "Whiteboard", "Hand-Drawn", "Lessons"]
 ```
 
 Preview image:  
-![Classroom Chalkboard Diagram](https://dummyimage.com/800x450/1f2933/f9fafb&text=Classroom+Chalkboard+Diagram)
+![Classroom Chalkboard Diagram](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-vgg187srvwdg1.png?width=1080&crop=smart&auto=webp&s=3b4d7233983e67d4ff30c5cbe9c504e4e62f0be0)
 
 14. **Product One‑Pager Sheet**
 
@@ -509,7 +509,7 @@ Tags: ["Product Sheet", "Sales", "SaaS", "One-Pager", "Marketing Collateral"]
 ```
 
 Preview image:  
-![Product One‑Pager Sheet](https://dummyimage.com/800x450/f5f5f5/111111&text=Product+One-Pager+Sheet)
+![Product One‑Pager Sheet](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-9brpdlrrvwdg1.png?width=1080&crop=smart&auto=webp&s=92a11a4b1fca191af7cfb65f13226e9c376b2da2)
 
 15. **Circular Ecosystem Map**
 
@@ -539,7 +539,299 @@ Tags: ["Ecosystem", "Systems Map", "Strategy", "Conceptual", "Overview"]
 ```
 
 Preview image:  
-![Circular Ecosystem Map](https://dummyimage.com/800x450/ffffff/111827&text=Circular+Ecosystem+Map)
+![Circular Ecosystem Map](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-8zsxgjrrvwdg1.png?width=1080&crop=smart&auto=webp&s=db87ddf8683b898f07f1427ffe54c7a7c8d696cf)
+
+16. **Ukiyo-e / Japanese Woodblock Print**
+
+```text
+Overall Design Settings:
+Tone: "Mythological, Didactic, Authoritative, Historical, Dramatic"
+
+Visual Identity:
+Background Color: "#F0E3CE"
+Text Color: "#0D0D15"
+Accent Color: "#E85D35"
+Secondary Colors: ["#223A70", "#75D6EA", "#BF3A3A", "#E6B658"]
+
+Image Style:
+Features: "Traditional woodblock aesthetics, bold brush outlines, Great Wave motifs, comic-strip paneling, kaiju imagery"
+Texture: "Aged washi paper grain, distressed ink edges, matte finish"
+Composition: "Structured triptych layout with a dominant central figure flanked by vertical instructional columns and a heavy top header"
+Lighting: "Flat illustration lighting, high contrast color blocking, lack of photorealistic gradients"
+Line Art: "Variable width brush strokes simulating ink"
+Art Period: "Edo Period Revival / Modern Manga Fusion"
+Visual Metaphor: "Monstrous challenge vs. disciplined strategy"
+
+Typography:
+Heading: "Heavy Edo-style Calligraphy (Kanji/Brush)"
+Body Font: "Legible Medium-Weight Serif"
+Caption Style: "Boxed text on parchment background"
+Orientation: "Mixed horizontal and vertical flow"
+
+Categories:
+Tags: ["Ukiyo-e", "Woodblock Print", "Narrative Infographic", "Retro Japanese", "High-Contrast"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-72us9t8xmscg1.png?width=1080&crop=smart&auto=webp&s=87056a6ed4d4996329164eb51aa9506d7d85f38a)
+
+17. **Vintage Comic / Pop Art**
+
+```text
+Overall Design Settings:
+Tone: "Energetic, satirical, action-oriented, and retro-cinematic"
+
+Visual Identity:
+Background Color: "#F9F7E8"
+Text Color: "#050505"
+Accent Color: "#FCEE21"
+Secondary Colors: ["#E62E2D", "#2A5CAA", "#D4A578", "#5C4535"]
+
+Image Style:
+Features: "Sequential narrative panels, speech bubbles, jagged explosion bursts, heavy black contour lines, exaggerated superhero anatomy"
+Texture: "Vintage newsprint grain, ink bleed simulation, flat color filling without gradients"
+Composition: "Dense multi-panel grid with a dominant title header, interspersed with dynamic action poses overlapping panel borders"
+Lighting: "Flat illustrative lighting with solid black heavy shadowing (ink chiaroscuro)"
+Line Work: "Thick, expressive ink contours with varying weights"
+Visual FX: "Onomatopoeic sound effects (BUM!, PRASK!) in jagged starbursts"
+
+Typography:
+Heading: "Hand-Drawn Block Display"
+Body Font: "Uppercase Hand-Lettered Comic Script"
+Style: "Distressed, bold, irregular alignment within speech balloons"
+
+Categories:
+Tags: ["Pop Art", "Vintage Comic", "Retro", "Sequential Art", "Action"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-0l935w07nscg1.png?width=1080&crop=smart&auto=webp&s=32fde265a011641be99b5fec11cd3e49229b23a7)
+
+18. **Cyberpunk / Hacker CRT Terminal**
+
+```text
+Overall Design Settings:
+Tone: "Cryptic, technological, dystopian, nostalgic, high-tech command line interface."
+
+Visual Identity:
+Background Color: "#020502"
+Text Color: "#4AF626"
+Accent Color: "#1A3B1A"
+Secondary Colors: ["#0D1F0D", "#88FF88", "#002200"]
+
+Image Style:
+Features: "Vintage CRT monitor hardware, cascading matrix-style code rain, command-line interface, pixelated digital artifacts."
+Texture: "Heavy scanlines, phosphor bloom, grain, screen curvature distortion, chromatic aberration."
+Composition: "Centered focal point on the monitor screen, immersive slight perspective, claustrophobic framing focused on the digital readout."
+Lighting: "Low-key ambient darkness, primary illumination via screen emission (green phosphor glow), volumetric lighting effects from the screen."
+Screen Effect: "CRT blooming and interlacing lines"
+Atmosphere: "Dark, subterranean hacker den"
+
+Typography:
+Heading: "Monospace Pixelated (e.g., VT323, Fixedsys)"
+Body: "Monospace Terminal Font"
+Font Weights: "Regular, Bold for commands"
+Character Set: "Alphanumeric mixed with Katakana/Kanji"
+
+Categories:
+Tags: ["Cyberpunk", "Retro-Futurism", "Hacker Aesthetic", "CRT", "Glitch"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-lvhzos8xmscg1.png?width=1080&crop=smart&auto=webp&s=f441d6ae4baca8dfd4245f80eef3f5a7a6fcc15d)
+
+19. **Cyberpunk Glitch / Red HUD Terminal**
+
+```text
+Overall Design Settings:
+Tone: "Urgent, Computational, Warning, Analytical, Retro-Futuristic"
+
+Visual Identity:
+Background Color: "#050000"
+Text Color: "#FF5050"
+Accent Color: "#FF0000"
+Secondary Colors: ["#800000", "#FFFFFF", "#330000"]
+
+Image Style:
+Features: "Digital HUD layout, glitch artifacts, horizontal interference lines, wireframe iconography, blinking cursor elements"
+Texture: "CRT monitor scanlines, pixel grain, screen burn-in simulation"
+Composition: "Grid-based compartmentalization, clear horizontal dividers, symmetrical split-screen bottom section"
+Lighting: "Self-illuminated phosphor glow, high-contrast neon bloom against void background"
+Border Style: "Double-line neon frames with corner accents"
+Iconography: "Schematic line art, pixel-perfect edges"
+Visual Noise: "Data corruption effects, horizontal shearing"
+
+Typography:
+Heading: "Monospaced Pixel Font (VCR OSD Mono / Console)"
+Body Font: "System Monospace (Courier / Consolas)"
+Formatting: "Uppercase dominant, terminal command syntax"
+Weight: "Regular with faux-bold glow effects"
+
+Categories:
+Tags: ["Cyberpunk", "Glitch UI", "Terminal", "Dystopian", "Data-Viz"]
+```
+
+![Preview Images](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-eys3wqvymscg1.png?width=1080&crop=smart&auto=webp&s=d74158daf6d8264ac5297d9e0c041d44bf682427)
+
+20. **Blueprint / Technical Schematic**
+
+```text
+Overall Design Settings:
+Tone: "Precise, Structural, Industrial, Educational, Authoritative"
+
+Visual Identity:
+Background Color: "#1E5DA2"
+Text Color: "#FFFFFF"
+Accent Color: "#A8D5FF"
+Secondary Colors: ["#0F3666", "#5A8CC9", "#DCEEFF"]
+
+Image Style:
+Features: "White line art technical drawings, isometric projections, floor-plan schematics, measurement lines, dashed indicators, grid background."
+Texture: "Subtle grid paper overlay, matte finish, consistent vector strokes."
+Composition: "Modular layout divided by dashed vertical lines, balanced split-screen comparison, framed with technical borders and title blocks."
+Lighting: "Flat diagrammatic lighting, no directional shadows, high contrast for legibility."
+Line Weight: "Thin, uniform white strokes approx 1px-2px"
+Diagram Type: "Hybrid: 2D Floor Plan (Left) vs 3D Isometric Stack (Right)"
+Decorative Elements: "Dimension markers, arrows, dotted connection lines, technical stamps"
+
+Typography:
+Heading: "Geometric Sans-Serif (e.g., DIN, Roboto, or Noto Sans JP)"
+Hierarchy: "Bold uppercase headers, smaller technical labels, bracketed English translations"
+Style: "Technical labeling, clean, high-readability against dark background"
+Alignment: "Centered main titles, left-aligned descriptive labels"
+
+Categories:
+Tags: ["Blueprint", "Technical Schematic", "Engineering", "Infographic", "Isometric"]
+```
+
+![Preivew Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-oehk2g17nscg1.png?width=1080&crop=smart&auto=webp&s=a0bd54b883f5994890ff77164fe23632e0f5e3e0)
+
+21. **Vintage Botanical / Scientific Illustration**
+
+```text
+Overall Design Settings:
+Tone: "Scholarly, Timeless, Organic, Authoritative, Antiquated"
+
+Visual Identity:
+Background Color: "#F0E5D3"
+Text Color: "#1A1512"
+Accent Color: "#BF6B63"
+Secondary Colors: ["#6B7F5E", "#8C735A", "#CDB898", "#A65E55"]
+
+Image Style:
+Features: "Hand-drawn botanical anatomy, ornate vine borders, diagrammatic labels, metaphorical visualization"
+Texture: "Aged parchment, coffee stains, foxing, paper grain, watercolor wash, ink bleed"
+Composition: "Centralized anatomical subject rooted in ground, framed by symmetrical organic borders, peripheral text annotations with calligraphic flourishes"
+Lighting: "Flat illustrative lighting, soft ambient occlusion via stippling and cross-hatching"
+Line Work: "Fine quill ink with variable line weight and cross-hatching"
+Medium: "Watercolor wash over ink sketch on textured paper"
+Aging Effects: "Discoloration, water damage spots, worn edges"
+Border Style: "Intertwining leafy vines forming a rectangular frame"
+
+Typography:
+Heading: "Old Style Serif (Caslon or Garamond aesthetic)"
+Body: "Classic Italic Serif for Latin nomenclature and labels"
+Style: "Academic, Calligraphic, Pre-Digital Printing Press"
+Legibility: "High contrast ink against parchment"
+
+Categories:
+Tags: ["Vintage", "Botanical", "Scientific Illustration", "Academic", "Neo-Victorian"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-yyx6gy8xmscg1.png?width=1080&crop=smart&auto=webp&s=070755078968307eb788c8b0076cb640eabe705f)
+
+22. **Neo-Vintage Belle Époque / Art Nouveau (Alphonse Mucha)**
+
+```text
+Overall Design Settings:
+Tone: "Alphonse Mucha, Nostalgic, Aristocratic, Educational, Elegant, Authoritative"
+
+Visual Identity:
+Background Color: "#F3EAD3"
+Text Color: "#3E2F26"
+Accent Color: "#A83E36"
+Secondary Colors: ["#D9B87F", "#6D8EA6", "#6E8B5E", "#8F8376"]
+
+Image Style:
+Features: "Hand-drawn lithograph illustrations, ornamental ribbon banners, vignette borders, fine ink hatching, historical portraiture"
+Texture: "Aged parchment grain, watercolor wash, ink stipple, paper fibers"
+Composition: "Segmented collage layout connected by decorative scrolls, distinct illustrative zones with clear separation"
+Lighting: "Soft diffuse daylight for scenic elements, flat graphic illumination for layout structures"
+Line Work: "Fine black ink with delicate cross-hatching for shading"
+Color Application: "Muted, desaturated watercolor washes constrained by ink outlines"
+Ornamentation: "A. Mucha Art Nouveau inspired corner flourishes and scrollwork banners"
+
+Typography:
+Heading: "Classic Victorian Serif (Heavy Weight)"
+Body Font: "Traditional Garamond-style Serif, slightly condensed"
+Styling: "All-caps for headers within ribbons, sentence case for descriptions, mixed italics for emphasis"
+Color Strategy: "Deep Sepia for body text, Terracotta Red for primary titles to drive hierarchy"
+
+Categories:
+Tags: ["Neo-Vintage", "Historical", "Belle Époque", "Lithograph", "Infographic"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-tp0r9qb2nscg1.png?width=1080&crop=smart&auto=webp&s=52c886b1a1d8d2590d13f26b6ee4597ae759300f)
+
+23. **Risograph / Retro-Educational / Zine**
+
+```text
+Overall Design Settings:
+Tone: "Instructional, tactile, approachable, and retro-intellectual."
+
+Visual Identity:
+Background Color: "#FDFBF6"
+Text Color: "#1C1C5E"
+Accent Color: "#E63E85"
+Secondary Colors: ["#E8AF3F", "#5C66B2", "#242D45", "#2E2C87"]
+
+Image Style:
+Features: "Simulated offset printing, varying opacity layers (multiply effect), speech bubble containers, iconographic metaphors (brains, gears, lightbulbs), and distinct outline misregistration."
+Texture: "Coarse paper grain, ink bleed, slight halftone noise, and rough 'stamp-like' stroke edges."
+Composition: "Flowchart logic with a top-down hierarchy. Grouped clusters of information connected by directional arrows, utilizing localized background shapes to define zones."
+Lighting: "Flat, uniform lighting characteristic of 2D print media, with depth implied only through color overlapping and drop shadows."
+Print Effect: "Misregistration/Offset Simulation"
+Line Quality: "Organic, marker-like thickness variation"
+Iconography: "Filled silhouette style with internal negative space details"
+
+Typography:
+Heading: "Heavy Geometric Sans-Serif (Japanese Gothic style)"
+Body: "Medium weight rounded sans-serif, legible at small sizes"
+Rendering: "Slight blur or ink-spread effect to match the analog paper texture"
+
+Categories:
+Tags: ["Risograph", "Retro-Educational", "Hand-Drawn UI", "Zine Aesthetic", "Infographic"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-5uxu9rb2nscg1.png?width=1080&crop=smart&auto=webp&s=1b162b9f8c34abcca8564cd4afd24060530f8984)
+
+24. **Minimalist Flat Design / Clean Tech Timeline**
+
+```text
+Overall Design Settings:
+Tone: "Professional, Optimistic, Airy, Informative"
+
+Visual Identity:
+Background Color: "#F4F9FB"
+Text Color: "#667882"
+Accent Color: "#5DB6E3"
+Secondary Colors: ["#3B6075", "#91AAB8", "#FFFFFF"]
+
+Image Style:
+Features: "Flat vector iconography, curved central timeline path, simplified geometric forms, dashed guide lines"
+Texture: "Smooth, matte, digital vector, paper-like flatness"
+Composition: "Vertical scrolling timeline, alternating left-right alignment, central spine flow, ample whitespace"
+Lighting: "Uniform flat lighting, shadowless, high-key luminosity"
+Iconography: "Two-tone flat vector icons (Sky Blue and Dark Slate)"
+Flow: "S-Curve central axis guiding the eye downwards"
+
+Typography:
+Heading: "Tall Condensed Sans-Serif (e.g., Bebas Neue or Oswald)"
+Body Font: "Clean Geometric Sans-Serif (e.g., Open Sans or Roboto)"
+Date Styling: "Bold, Accent Color, Sans-Serif"
+
+Categories:
+Tags: ["Infographic", "Minimalist", "Clean Tech", "Flat Design", "Futuristic"]
+```
+
+![Preview Image](https://preview.redd.it/9-creative-notebooklm-infographics-slide-deck-design-styles-v0-s2vhmqvymscg1.png?width=1080&crop=smart&auto=webp&s=ac3c6db7a2b05365953595d9173ae65c489176e0)
 
 
 ## Usage guidance
