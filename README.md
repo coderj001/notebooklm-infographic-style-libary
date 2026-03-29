@@ -1,49 +1,36 @@
 # Awesome NotebookLM Templates
 
-![repo_banner](https://hackmd.io/_uploads/HJdglgwrZe.png)
-![Awesome](https://awesome.re/badge.svg)
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
-
-### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
-
-NotebookLM Slide Prompt⚡️
-> A curated collection of the strongest NotebookLM & Kael.im slide prompts sourced from the real creative underground — Note, WeChat, blogs, RED creators, and Twitter/X power users.
-
-These prompts are field-tested by people who ship fast: **researchers, founders, designers**. Use them to turn papers, notes, transcripts, or random brain dumps into **clean, structured, presentation-ready decks** that actually look intentional.
-
-If you want NotebookLM to consistently generate slides that hit, **this is the repo!**
-
-I also built a [citation checker skill](https://github.com/serenakeyitan/citation-check-skill) that detecting hallucinated missing citations in ur slides. Feel free to add it to ur workflow.
+Curated NotebookLM prompts and visual directives for crafting high-impact infographic slide decks with diverse editorial aesthetics.
 
 ## Table of Contents
-
-### A. Editorial & Business Styles
-- [Modern Newspaper](#modern-newspaper)
-- [Sharp-edged Minimalism](#sharp-edged-minimalism)
-- [Yellow × Black Editorial](#yellow--black-editorial)
-- [Black × Orange Creative Agency](#black--orange-creative-agency)
-- [For Seminar Use (Minimal Text)](#for-seminar-use-minimal-text)
-
-### B. Pop, Youth, and Street Styles
-- [Manga Style](#manga-style)
-- [Magazine Style](#magazine-style)
-- [Pink Street-style](#pink-street-style)
-- [Digital / Neo / Pop](#digital--neo--pop)
-
-### C. Typography / Font-driven Styles
-- [Mincho × Handwritten Mix](#mincho-font--handwritten-mix)
-
-### D. Artistic & Avant-Garde Styles
-- [Deformed Flat Persona](#deformed-flat-persona)
-- [Royal Blue × Red Watercolor](#royal-blue-and-red)
-- [Classic / Pop (Sculpture × Vaporwave)](#classic--pop)
-- [Tech / Art / Neon](#tech--art--neon)
-
-### E. Professional / Product / Premium
+- [modern newspaper](#modern-newspaper)
+- [sharp-edged minimalism](#sharp-edged-minimalism)
+- [yellow x black](#yellow-x-black)
+- [Black x Orange Style](#black-x-orange-style)
+- [Manga style](#manga-style)
+- [Magazine style](#magazine-style)
+- [Neo-Retro Dev Deck / Pixel-Infographic Editorial](#neo-retro-dev-deck--pixel-infographic-editorial)
+- [pink street-style](#pink-street-style)
+- [Mincho font + Handwritten MIX](#mincho-font--handwritten-mix)
+- [For seminar use, minimal text](#for-seminar-use-minimal-text)
+- [Royal blue and red](#royal-blue-and-red)
 - [Studio / Mockup / Premium](#studio--mockup--premium)
-
-### F. Sports & High-energy Styles
 - [Sports / Athletic / Energy](#sports--athletic--energy)
+- [Hand-Drawn / Sketch-Note](#hand-drawn--sketch-note)
+- [Blueprint / Engineering](#blueprint--engineering)
+- [Risograph / Bauhaus](#risograph--bauhaus)
+- [Ukiyo-e / Japanese Woodblock Print](#ukiyo-e--japanese-woodblock-print)
+- [Vintage Comic / Pop Art](#vintage-comic--pop-art)
+- [Cyberpunk / Hacker CRT Terminal](#cyberpunk--hacker-crt-terminal)
+- [Cyberpunk Glitch / Red HUD Terminal](#cyberpunk-glitch--red-hud-terminal)
+- [Blueprint / Technical Schematic](#blueprint--technical-schematic)
+- [Vintage Botanical / Scientific Illustration](#vintage-botanical--scientific-illustration)
+- [Neo-Vintage Belle Époque / Art Nouveau (Alphonse Mucha)](#neo-vintage-belle-épogue--art-nouveau-alphonse-mucha)
+- [Risograph / Retro-Educational / Zine](#risograph--retro-educational--zine)
+- [Minimalist Flat Design / Clean Tech Timeline](#minimalist-flat-design--clean-tech-timeline)
+- [Corporate Bento Grid / Tech Spec](#corporate-bento-grid--tech-spec)
+- [Usage guidance](#usage-guidance)
+- [Missing entries](#missing-entries)
 
 
 ## **modern newspaper:**
