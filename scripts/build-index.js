@@ -55,9 +55,22 @@ for (let i = 0; i < headings.length; i++) {
   }
 
   const promptMatch = sectionText.match(/```[^\n]*\n([\s\S]*?)\n```/);
-  if (!promptMatch) {
-    skipped += 1;
-    continue;
+  let prompt = '';
+  if (promptMatch) {
+    prompt = promptMatch[1].trim();
+  } else {
+    const cleaned = sectionText
+      .replace(/!\[[^\]]*\]\([^)]+\)/g, '')
+      .replace(/^\s*source[^\n]*$/gim, '')
+      .replace(/^\s*Tags:\s*\[[^\]]+\]\s*$/gim, '')
+      .split('\n')
+      .map((line) => line.trim())
+      .filter((line) => line.length > 0);
+    if (cleaned.length > 0) {
+      prompt = cleaned.join('\n');
+    } else {
+      prompt = 'No prompt text provided in README.';
+    }
   }
 
   const images = [];
@@ -67,7 +80,10 @@ for (let i = 0; i < headings.length; i++) {
     images.push(imageMatch[1]);
   }
 
-  const prompt = promptMatch[1].trim();
+  if (!prompt) {
+    skipped += 1;
+    continue;
+  }
 
   const tags = [];
   const tagMatch = sectionText.match(/Tags:\s*\[([^\]]+)\]/i);

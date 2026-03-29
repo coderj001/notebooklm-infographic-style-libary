@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-03-29T12:54:42.235Z",
-  "total": 19,
+  "generated_at": "2026-03-29T13:12:34.591Z",
+  "total": 24,
   "styles": [
+    {
+      "id": "table-of-contents",
+      "title": "Table of Contents",
+      "images": [],
+      "prompt": "- [modern newspaper](#modern-newspaper)\n- [sharp-edged minimalism](#sharp-edged-minimalism)\n- [yellow x black](#yellow-x-black)\n- [Black x Orange Style](#black-x-orange-style)\n- [Manga style](#manga-style)\n- [Magazine style](#magazine-style)\n- [Neo-Retro Dev Deck / Pixel-Infographic Editorial](#neo-retro-dev-deck--pixel-infographic-editorial)\n- [pink street-style](#pink-street-style)\n- [Mincho font + Handwritten MIX](#mincho-font--handwritten-mix)\n- [For seminar use, minimal text](#for-seminar-use-minimal-text)\n- [Royal blue and red](#royal-blue-and-red)\n- [Studio / Mockup / Premium](#studio--mockup--premium)\n- [Sports / Athletic / Energy](#sports--athletic--energy)\n- [Hand-Drawn / Sketch-Note](#hand-drawn--sketch-note)\n- [Blueprint / Engineering](#blueprint--engineering)\n- [Risograph / Bauhaus](#risograph--bauhaus)\n- [Ukiyo-e / Japanese Woodblock Print](#ukiyo-e--japanese-woodblock-print)\n- [Vintage Comic / Pop Art](#vintage-comic--pop-art)\n- [Cyberpunk / Hacker CRT Terminal](#cyberpunk--hacker-crt-terminal)\n- [Cyberpunk Glitch / Red HUD Terminal](#cyberpunk-glitch--red-hud-terminal)\n- [Blueprint / Technical Schematic](#blueprint--technical-schematic)\n- [Vintage Botanical / Scientific Illustration](#vintage-botanical--scientific-illustration)\n- [Neo-Vintage Belle Époque / Art Nouveau (Alphonse Mucha)](#neo-vintage-belle-épogue--art-nouveau-alphonse-mucha)\n- [Risograph / Retro-Educational / Zine](#risograph--retro-educational--zine)\n- [Minimalist Flat Design / Clean Tech Timeline](#minimalist-flat-design--clean-tech-timeline)\n- [Corporate Bento Grid / Tech Spec](#corporate-bento-grid--tech-spec)\n- [Usage guidance](#usage-guidance)\n- [Missing entries](#missing-entries)",
+      "tags": [],
+      "source": "",
+      "section_order": 1
+    },
     {
       "id": "modern-newspaper",
       "title": "modern newspaper",
@@ -13,7 +22,7 @@
       "prompt": "You are a top art director leading Japan's \"new economy business media.\" But the language should be what users said in the prompt. so not nessecery in (the language what users requested in the prompt).\nBased on the following \"design definition,\" generate a visually focused, high-sensibility presentation slide that sparks intellectual excitement in business professionals of the smartphone generation.\n\n[Important: Absolutely Prohibited Output Format Rules]\n* **Complete Exclusion of Markdown Symbols**: Do not include symbols like \"#\" for headings or \"*\" and \"**\" for emphasis in the slide text **under any circumstances**.\n* **Plain Text Only**: Text displayed on the slide must consist solely of \"pure (the language what users requested in the prompt) and English text\" without any decorative symbols.\n\n[Special Specification for Cover Slide: Make This the Highest Quality]\n* **Design Philosophy**: Draw inspiration from \"Swiss Style (International Typographic Style)\" or \"Bauhaus.\"\n* **Layout**: Ban simplistic \"centered alignment.\" Create tension with **\"asymmetrical\"** placement. Use a grid system to position the title extremely off to the top left or bottom left, or craft bold negative space for refinement.\n* **Title Copy Design**:\n    * **Main Title (Ultra-Large · Short Phrase)**: Ditch descriptive words. Make it a visual anchor with a short word or phrase of about \"2–5 characters\" (e.g., \"Liberation,\" \"Collapse and Rebirth,\" \"The True Face of AI\").\n    * **Subtitle (Ultra-Small · Benefit-Driven)**: Carve into the reader's pain points and hint at resolution with a concise sentence (e.g., \"Why Is Your Advertising Dead?\" \"How to Ditch 'Tasks' and Return to 'Creation'\").\n    * **Composition Ratio**: Punch the eyes with the main title, stab the brain with the subtitle.\n\n[Overall Design Definition for All Slides]\n1.  **Core Theme**: Smart & pop business infotainment (intellectual curiosity × entertainment)\n2.  **Color Palette**:\n    * Background Color: White (#FFFFFF) or Cool Gray (#F5F5F5)\n    * Text Color: Sumi (Jet Black) (#111111)\n    * Accent Color: Electric Yellow (#FFCC00) or Alert Red (#FF3333)\n3.  **Visual Style**:\n    * Adopt the design philosophy of a \"**smartphone-first economic media**.\"\n    * Use images like \"monochrome cutouts of people\" or \"stylish photos with blown-out backgrounds\" to emphasize the subject.\n    * Highlight key numbers or keywords with fluorescent marker-style lines (yellow background) to create rhythm.\n\n4.  **Typography (Text as Graphic)**:\n    * Position headlines at an \"**ultra-massive size**\" occupying **30%–50%** of the slide's area.\n    * **Extreme Jump Ratio**: The size ratio between \"headlines\" and \"body text\" must be **10:1** or more. No half-hearted size differences allowed.\n    * For headlines, use **extra-bold sans-serif** (Impact/(Hiragino) W8 weight) to treat them as a \"surface,\" and tuck ultra-thin English fonts into the gaps for a sense of airiness.\n\n5.  **Overall Structure**:\n    * Strictly adhere to \"1 slide = 1 message.\"\n    * Layout is a binary choice between \"negative space\" or \"text.\" Draw the eye through contrasts of text-packed areas that fill the screen and vast empty voids.\n    * Place the conclusion (punchline) with a \"bam!\" in the center of the slide, or position it spilling off the edge for visual impact.",
       "tags": [],
       "source": "https://x.com/mmmiyama_D/status/1998528702150488069?s=20",
-      "section_order": 1
+      "section_order": 2
     },
     {
       "id": "sharp-edged-minimalism",
@@ -25,7 +34,7 @@
       "prompt": "# presentation_design_spec_minimal_jp.yaml\n# Style: Refined Minimal Portfolio\n# Characteristics: Top-left navigation, aesthetics of whitespace, grid-based layout\n\nGlobal Design Settings:\n  Tone: \"Professional, architectural, sharp-edged minimalism\"\n  Color Palette:\n    Base: \"#E9E9E9 (light gray) or #FFFFFF (white)\"\n    Text: \"#000000 (jet black) or #333333 (dark gray)\"\n    Accent: \"#000000 (black) – used for bold lines and emphasized text\"\n    Special: \"Dark mode (black background) – used for slides that need emphasis\"\n  Typography:\n    Headings: \"English sans-serif (e.g., Helvetica Now, Inter). Bold and decoratively positioned.\"\n    Body: \"(the language what users requested in the prompt) Gothic typeface. Small size with generous letter spacing and line height.\" But the language should be what users said in the prompt.\n  Common Layout Rules:\n    Navigation: \"Place a small section number and title such as '01. INTRODUCTION' in the top-left (or top-right) of every slide.\"\n    Grid: \"Use a strict grid system to align elements.\"\n    Whitespace: \"Intentionally leave large areas empty (negative space) to create a sense of luxury.\"\n\nLayout Variations (Catalog):\n  - Type: \"Title Typography\"\n    Design: \"Scattered layout. Randomly place award badges or keywords like stamps. The central title is small, bold, and restrained.\"\n\n  - Type: \"Text + Data Emphasis\"\n    Design: \"Asymmetrical split. Narrative text on the left, oversized numbers (black) on the right. Include thin divider lines.\"\n\n  - Type: \"Card Grid\"\n    Design: \"Tightly spaced grid. Arrange high-quality images with a web-like interaction feel, such as text appearing on mouse-over.\"\n\n  - Type: \"Full-Screen Graphic\"\n    Design: \"Office interior photography occupying the full screen (or more than half). Concrete textures, desks lined with Macs. Reduce saturation for a cool tone. Add a very small caption in the bottom-left.\"\n\n  - Type: \"Photo + List Split\"\n    Design: \"50:50 split. Left: architectural or abstract photography. Right: data list (bold headings + light-weight descriptions). Used for company info. Bold item names, thin body text. Generous spacing; avoid overcrowding.\" But the language should be what users said in the prompt. \n\n  - Type: \"Minimal Map\"\n    Design: \"Silhouette-style map. Light gray background with a white map. Use ultra-thin callout lines to indicate locations.\"\n\n  - Type: \"Vertical Timeline\"\n    Design: \"Vertical axis. A single thin line with text branching left and right. Clean chronological order.\"\n\n  - Type: \"Bubble Chart / Venn Diagram\"\n    Design: \"Wireframe style. Black background with thin white line art. Semi-transparent overlapping circles.\"\n\n  - Type: \"Dialogue (Chat Style)\"\n    Design: \"Minimal conversational format. Not comic speech bubbles, but simple text blocks with bold speaker names.\"\n\n  - Type: \"Chronological List\"\n    Design: \"Rhythmic list. Large years (e.g., 2024) on the left, descriptions on the right. Strong contrast in font sizes.\"\n\n  - Type: \"Dark Mode Diagram\"\n    Design: \"Intellectual tech aesthetic. Black background with thin white lines connecting nodes. Constellation- or network-like appearance. Circles connected by fine lines or geometric patterns, expressing a fusion of technology and creativity.\"\n\n  - Type: \"3-Step Columns\"\n    Design: \"Typography-driven columns. Large numbers (01, 02, 03) act as pillars. No icons; rely on typographic contrast.\"\n\n  - Type: \"Logo Grid\"\n    Design: \"Monochrome grid. Convert all logos to black or gray and align them in a strict grid.\"\n\n  - Type: \"Two Columns (Problem vs Solution)\"\n    Design: \"Sharp contrast. A thick black vertical line separates 'Problem' and 'Solution'. Text aligned in block form.\"\n\n  - Type: \"Centered Layout (Dark Mode)\"\n    Design: \"Cinematic. A small video thumbnail or key visual centered on a black background. Add an emotional English tagline.\"\n\n  - Type: \"Formula / Flow Diagram\"\n    Design: \"Mathematical style. Expressions like 'A × B = C' rendered in large serif type. Minimal arrows.\"\n\n  - Type: \"Arrow Steps\"\n    Design: \"Linear process. Place text inside large arrows. High contrast (black arrows with white text).\"\n\n  - Type: \"Chart\"\n    Design: \"Precision data. Graphs with thin lines ending in small black dots. Scientific instrument-like appearance.\"",
       "tags": [],
       "source": "https://x.com/yoshifujidesign/status/1997878247322001626?s=20",
-      "section_order": 2
+      "section_order": 3
     },
     {
       "id": "yellow-x-black",
@@ -37,7 +46,7 @@
       "prompt": "Yellow background, black text, large dynamic modern serif font placement, stylish, photos are unique fashion photography, with pop and chic touches like handwriting or stickers scattered throughout, bold layout like a fashion magazine",
       "tags": [],
       "source": "https://x.com/kawai_design",
-      "section_order": 3
+      "section_order": 4
     },
     {
       "id": "black-x-orange-style",
@@ -49,7 +58,7 @@
       "prompt": "Background is white, text is black, accent color is blood orange, stylish design that a creative agency might create, incorporating dynamic and simple photos and English typography. But the language should be what users said in the prompt.",
       "tags": [],
       "source": "https://x.com/kawai_design",
-      "section_order": 4
+      "section_order": 5
     },
     {
       "id": "manga-style",
@@ -61,7 +70,7 @@
       "prompt": "Understanding becomes deeper with \"fun.\" Sometimes, it's recommended to turn information into a comic and input it along with a story. You can relate it to your own situation, and it's easier to remember.",
       "tags": [],
       "source": "https://x.com/kawai_design",
-      "section_order": 5
+      "section_order": 6
     },
     {
       "id": "magazine-style",
@@ -72,7 +81,7 @@
       "prompt": "# Instructions\nPlease compile [Source Information] in a [mature-cute, sophisticated magazine-style editorial design].\n\n# Layout Requirements\n・Place a large cutout photo of the subject (model woman or product) in the center, emphasizing movement or pose\n・Place speech bubbles or text boxes asymmetrically in the left and right margins\n・Distribute main points as small sections numbered like \"NO.1\" \"NO.2\"\n・Place a vertical text box (white background) at the edge of the screen (e.g., right side) and insert a catchy copy\n・Place L-shaped lines resembling crop marks (\"trim marks\") in the four corners to create a poster or page-like feel\n・Format: Landscape (4:3 or 3:2), high resolution\n・But the language should be what users said in the prompt.\n\n# Design Requirements\n・Background color: Matte, subdued tone stylish pink (dusty pink or shell pink)\n・Main image: Use a photo with the background completely removed (deep etching)\n・Decorative elements: Use hand-drawn style speech bubbles, simple circles, and thin straight lines as accents\n・Fonts: Headings in sophisticated Gothic or Mincho, comments in hand-drawn style font for a casual feel\n・In speech bubbles or text boxes, write key points from the source information in emotional handwritten text of a young woman\n・Color palette: Matte pink for background, charcoal gray or black for text, white for accents\n・Overall atmosphere: Mature-cute, feminine, trendy, polished tone\n\n# Expressions to Avoid\n・Overly childish vivid colors, overly flashy gradients, heavy shadows",
       "tags": [],
       "source": "https://x.com/tetumemo/status/1996930284500201685?s=20",
-      "section_order": 6
+      "section_order": 7
     },
     {
       "id": "neo-retro-dev-deck-pixel-infographic-editorial",
@@ -83,7 +92,7 @@
       "prompt": "Overall Style Name\nNeo-Retro Dev Deck / Pixel-Infographic Editorial\n1. Core Visual Identity\nAesthetic:\nRetro-futuristic, developer-centric, editorial infographic style\nFeels like:\n90s computer manuals\nmodern AI dev tools marketing\npixel-art meets startup slide deck\nMood:\nConfident, playful, opinionated, slightly rebellious\n“Builders explaining the future, not selling fluff”\n2. Canvas & Background\nUse a light cream / off-white grid paper background\nSubtle square grid (engineering notebook feel)\nGrid lines very light, never distracting\nSlides should feel like annotated engineering notes, not corporate PPTs\n3. Typography System\nPrimary headline font:\nBold, heavy sans-serif with strong geometry\nBlack text\nSlightly condensed\nHigh contrast against background\nLanguage mixing:\nHeadlines can be \"the language should be what users said in the prompt\" + English mixed\nEnglish sub-labels under \"the language should be what users said in the prompt\" titles (small, clean)\nHierarchy:\nHuge bold headline blocks\nMedium sub-titles\nSmall explanatory captions below icons or boxes\n4. Color Palette (Strict)\nUse high-contrast blocks with thick black outlines:\nHot Pink (agent / brain / intelligence concepts)\nBright Yellow (editor / code / tools)\nCyan / Light Blue (browser / web / execution)\nBlack (text, borders)\nWhite / cream (background)\nEach section = one dominant color block\n5. Layout Language\nStacked modular blocks\nRectangles with thick black borders\nSlight overlaps allowed (intentional, collage-like)\nHorizontal bars for section headers\nCard-based structure for steps, evolution, layers\nSlides should feel assembled, not perfectly aligned\n(controlled imperfection)\n6. Iconography & Graphics\nUse pixel-art style icons, including:\nRocket\nRobot / agent\nGear\nCode brackets\nBrowser window\nChat bubbles\nIcons should look:\nLow-resolution\n8-bit or 16-bit inspired\nFlat colors, black outline\nDecorative elements:\nSmall gears\nArrows\nChevrons <>\nPixel sparks / motion lines\n7. Content Patterns (Very Important)\nA. “System Architecture” Slides\nUse stacked layers with labels\nEach layer:\nOne color\nOne icon\nOne bold title\nOne short explanatory line\nExample structure:\nAgent Manager\nAI Editor\nAgent-Controlled Browser\nB. “Evolution / Timeline” Slides\nLeft → right progression\nEach step in its own box:\nAuto-complete\nChat\nAgent\nNew Model (highlighted)\nFinal step should be visually larger and more colorful\nC. “Manifesto / Thesis” Slides\nOne huge headline in a boxed frame\nMinimal text\nSurrounded by playful icons\nFeels like a statement, not documentation\n8. Tone of Text\nShort\nDeclarative\nSlightly opinionated\nNo marketing fluff\nGood:\n“Agents execute tasks autonomously”\n“Coding enters the agent era”\nBad:\n“Empowering users with cutting-edge solutions”\n9. What to Avoid\nNo gradients\nNo realistic photos\nNo soft shadows\nNo corporate templates\nNo minimalism for its own sake\nThis is expressive, not quiet\n10. Generation Instruction (Critical)\nGenerate multiple slides following this exact visual system.\nMaintain consistency in:\ngrid background\ncolor usage\nicon style\ntypography hierarchy\nSlides should look like they belong to one cohesive deck, not individual posters.",
       "tags": [],
       "source": "",
-      "section_order": 7
+      "section_order": 8
     },
     {
       "id": "pink-street-style",
@@ -95,7 +104,7 @@
       "prompt": "Background is pink, text is white and black, illustrative illustrations are pop and deformed illustrations drawn with thick lines, overall street style but pop, flat colors, photos are trimmed into soft and squishy shapes to create a sense of looseness,",
       "tags": [],
       "source": "https://x.com/kawai_design",
-      "section_order": 8
+      "section_order": 9
     },
     {
       "id": "mincho-font-handwritten-mix",
@@ -107,7 +116,7 @@
       "prompt": "Yellow background, black text, large dynamic modern serif font placement, stylish, photos are unique fashion photography, with pop and chic touches like handwriting or stickers scattered throughout, bold layout like a fashion magazine",
       "tags": [],
       "source": "https://x.com/kawai_design",
-      "section_order": 9
+      "section_order": 10
     },
     {
       "id": "for-seminar-use-minimal-text",
@@ -119,7 +128,7 @@
       "prompt": "White background, black text, red accent color, sans-serif font, high-quality photo like a fashion portrait, dynamic typography, high-sensibility design",
       "tags": [],
       "source": "https://x.com/kawai_design",
-      "section_order": 10
+      "section_order": 11
     },
     {
       "id": "royal-blue-and-red",
@@ -132,7 +141,7 @@
       "prompt": "Shades of royal Blue and Red wet watercolor.  Focus on different artistic styles to be used with kael/notebooklm Slides decks.",
       "tags": [],
       "source": "https://x.com/kottley/status/1994442047579721782?s=20",
-      "section_order": 11
+      "section_order": 12
     },
     {
       "id": "studio-mockup-premium",
@@ -144,7 +153,7 @@
       "prompt": "# presentation_design_spec_premium_mockup_jp.yaml\n# Source: Uploaded Images (Apple Device Mockups with Modern UI)\n# Style: Premium Mockup / Modern UI / Clean Tech\n# Concept: \"Showcase in Perfection\"\n\nGlobal Design Settings:\n  Tone: \"High-quality, advanced, clean, refined, professional\"\n\nColor Palette:\n  Background:\n    - \"#FFFFFF (pure white)\"\n    - \"#F5F5F7 (very light gray, studio-like)\"\n    - \"#000000 (jet black, switching by slide)\"\n  Accent Colors:\n    - \"#8D59E9 (Electric Purple – main action color)\"\n    - \"#EBE021 (Acid Yellow – highlight points & badges)\"\n  Sub Colors:\n    - \"#D8E2EC (pale blue-gray for cards and base areas)\"\n    - \"#2D2D2D (charcoal for text and UI parts)\"\n\nVisual Identity:\n  Devices: \"High-quality 3D mockups of Apple products (Studio Display, MacBook Pro, iPad, iPhone 16 Pro)\"\n  UI Screen Design:\n    Background: \"Jet black (#000000) or vivid gradients (purple, yellow, orange)\"\n    Typography: \"Extra-bold sans serif (e.g., Helvetica Now Display Bold) in white\"\n    Layout: \"Card-based UI, grid layout, oversized numbers\"\n\nTypography:\n  Headings: \"Blocky sans serif type with a large jump ratio. English large, (the language should be what users said in the prompt) small.\"\n  Body: \"Thin gray gothic font. For emphasis, place text on black (#000000), white (#FFFFFF), Electric Purple (#8D59E9), or Acid Yellow (#EBE021).\"\n\nCommon Layout Rules:\n  - \"Studio Lighting: Apply soft shadows under devices to create a realistic studio environment.\"\n  - \"Screen as Hero: Device screens should occupy 70–80% of the slide area.\"\n  - \"Crop/Overflow: Allow part of the device to extend beyond slide boundaries for scale and impact.\"\n\nLayout Variations:\n  - Type: \"Hero Display\"\n    Design: \"Center the Studio Display with a black-background UI and ultra-bold white title (e.g., 'STUDIO DISPLAY MOCKUPS'). Large English title, small (the language should be what users said in the prompt) subtitle.\"\n\n  - Type: \"Floating Mobile\"\n    Design: \"Float an iPhone mockup in mid-air showing an app UI. Add blurred accent-colored lighting behind it.\"\n\n  - Type: \"Grid Interface\"\n    Design: \"Inside a MacBook screen, arrange colorful UI cards (purple, cyan, yellow) in a clean grid.\"\n\n  - Type: \"Dark Mode Presentation\"\n    Design: \"Device screen in dark mode. Use white + Acid Yellow for high-contrast emphasis.\"\n\n  - Type: \"Angle Shot\"\n    Design: \"Show device from a diagonal side angle to highlight thinness and texture. Add spec info in the whitespace.\"\n\n  - Type: \"Split Screen\"\n    Design: \"Left: half a device mockup. Right: large typography. Ensure seamless connection between screen colors and background.\"\n\n  - Type: \"Card Grid (Text Only)\"\n    Design: \"Extend the device’s UI layout to the whole slide. Place white or purple cards on #D8E2EC.\"\n\n  - Type: \"Big Typography\"\n    Design: \"Black background (#000000) with massive white ultra-bold text. English large, (the language what users requested in the prompt) very small. Use thin white dividers.\"\n\n  - Type: \"Split UI\"\n    Design: \"Left: large numbers ('16', '3680'). Right: descriptive text. Wrap in card-like frames.\"\n\n  - Type: \"Feature List Card\"\n    Design: \"White background with rounded gray band (#F5F5F7). Inside: aligned icons + text, large English title, small (the language should be what users said in the prompt) subtitle.\"\n\nDesign Rules:\n  - \"High Resolution: All mockup images must be high resolution with no visible pixels.\"\n  - \"Reflection & Gloss: Reproduce realistic screen reflections for premium feel.\"\n  - \"UI Spacing: Device UI should also follow a spacious, minimal layout.\"",
       "tags": [],
       "source": "https://note.com/yoshifujidesign/n/n7412bccb5762",
-      "section_order": 12
+      "section_order": 13
     },
     {
       "id": "sports-athletic-energy",
@@ -156,7 +165,7 @@
       "prompt": "# presentation_design_spec_sports_active_jp.yaml\n# Style: Sports / Athletic / Energy\n# Concept: \"Speed, Impact, and Heartbeat\"\n\nGlobal Design Settings:\n  Tone: \"Passionate, fast-paced, powerful, competitive\"\n\n  Color Palette:\n    Base: \"#111111 (asphalt-like black)\"\n    Text: \"#FFFFFF (white)\"\n    Accent:\n      - \"#CCFF00 (Bolt Lime)\"\n      - \"#FF4500 (Neon Orange)\"\n    Gradient: \"Overlay a black-to-transparent gradient on top of photos\"\n\n  Typography:\n    Headings: \"Extra-bold italic gothic type (Impact, Din Condensed, etc.)\"\n    Body: \"Italic sans serif type\"\n    Numbers: \"Stencil-style or jersey-style sports typography\"\n\n  Common Layout Rules:\n    Navigation: \"Place page numbers inside angled, diagonal-cut shapes\"\n    Shapes: \"Skew rectangles or images, or use parallelogram shapes\"\n\nLayout Variations:\n  - Type: \"Action Cut\"\n    Design: \"Use dynamic background photography (motion blur, running shots). Place large italic text in the foreground, overlapping the athlete or subject.\"\n\n  - Type: \"VS Layout\"\n    Design: \"Divide the screen diagonally. Bottom-left = your side (strengths). Top-right = competitor (challenges). Use a jagged lightning-like divider.\"\n\n  - Type: \"Speed Meter\"\n    Design: \"Display achievements or metrics in the style of a car speedometer or stadium scoreboard.\"\n\n  - Type: \"Highlight Stripe\"\n    Design: \"Place a bold diagonal stripe behind key words, as if marked with a fast, energetic brush or marker.\"",
       "tags": [],
       "source": "",
-      "section_order": 13
+      "section_order": 14
     },
     {
       "id": "classic-pop",
@@ -168,7 +177,7 @@
       "prompt": "# presentation_design_spec_sculpture_pop_flexible_jp.yaml\n# Style: Sculpture Pop Art / Vaporwave / Neon Surrealism\n# Concept: \"A Free Remix of Classical Art and Modern Pop Objects\"\n\nGlobal Design Settings:\n  Theme: \"Classical marble sculpture × modern neon pop (flexible style)\"\n  Tone: \"Bold, humorous, high-saturation, fashionable, surreal\"\n\n  Visual Identity:\n    Background Colors: \"High-saturation solid colors that change each slide (cyan, magenta, yellow, lime, purple, etc.)\"\n    Collage Materials:\n      Sculptures: \"Various classical white marble statues (men, women, gods, philosophers, etc. — change per slide)\"\n      Gadgets: \"Modern pop items (sunglasses, headphones, smartphones, VR, food items)\"\n      Item Colors: \"Adjust each object to be either complementary or analogous to the background color\"\n\n  Typography:\n    Headings: \"Ultra-bold sans serif (e.g., Helvetica Now Display Black)\"\n    Text Color: \"Whichever color achieves the highest contrast with the background (white, black, or matching accent color)\"\n\nLayout Variations (Catalog):\n\n  # --- High Impact Visuals ---\n  - Type: \"Drink Vibes (Cover)\"\n    Design: \"Vivid background. A classical bust wearing colorful sunglasses, sipping juice/soda with a straw in an extreme close-up.\"\n\n  - Type: \"Bubblegum Shock\"\n    Design: \"A statue (goddess, child, etc.) blowing a large bubblegum bubble in a contrasting color. Scatter geometric shapes around the scene.\"\n\n  - Type: \"Music Head\"\n    Design: \"Dark background (black or navy). A statue wearing bright-colored wireless headphones, immersed in music (or holding a smartphone).\"\n\n  # --- Concept Messaging ---\n  - Type: \"Split Duality\"\n    Design: \"Screen divided into two contrasting colors. A statue stands on the border, holding different modern objects in each hand (book vs tablet, pen vs smartphone).\"\n\n  - Type: \"Selfie King\"\n    Design: \"A statue lifting a smartphone for a selfie. Inside the phone screen, display SNS-style UI (likes, comments).\"\n\n  - Type: \"VR Dive\"\n    Design: \"A statue wearing VR goggles, looking upward into space. Floating 3D objects surround the scene.\"\n\n  # --- Information-Focused Layouts ---\n  - Type: \"Donut Chart\"\n    Design: \"Use real photos of donuts or pizza slices to build a donut chart. The statue is eating or holding the chart.\"\n\n  - Type: \"Item List\"\n    Design: \"A statue holding pop items (sneakers, skateboard, boombox). Each item has a speech bubble explaining features.\"\n\n  - Type: \"Comparison (A vs B)\"\n    Design: \"Two statues facing each other. One styled ‘Old’ with classical ornamentation, the other ‘New’ with modern accessories.\"\n\n  - Type: \"Team Pedestal\"\n    Design: \"Multiple busts placed on pedestals as team members, each personalized with different sunglasses or hats.\"\n\n  - Type: \"QR Contact\"\n    Design: \"A surreal ending slide: the statue has a QR code sticker on its forehead or is holding a QR code panel.\"\n\nDesign Rules:\n  - \"Variation: Do not reuse the same statue across slides; alternate between male, female, and animal sculptures to keep visual novelty.\"\n  - \"Color Contrast: Ensure strong contrast between background and item colors (e.g., purple background × yellow accessories).\"\n  - \"Isolation: Cleanly cut out statues and objects from their backgrounds, keeping edges sharp and precise.\"",
       "tags": [],
       "source": "https://note.com/yoshifujidesign/n/n7412bccb5762",
-      "section_order": 14
+      "section_order": 15
     },
     {
       "id": "tech-art-neon",
@@ -180,7 +189,7 @@
       "prompt": "# presentation_design_spec_neon_collage_jp.yaml\n# Source: Uploaded Image (1bce448a...jpg)\n# Style: Constructivism / Tech-Art / Avant-Garde\n# Concept: \"Architecture of Intelligence\"\n\nGlobal Design Settings:\n  Tone: \"Avant-garde, structural, intellectual, artistic, future-oriented\"\n\n  Visual Identity:\n    Background Color: \"Warm gray / beige (#E0E0D0) — matte, paper-like texture\"\n    Text Color: \"Charcoal gray (#333333) — not pure black\"\n    Accent Color: \"Neon Yellow (#DFFF00) — used for geometric shapes\"\n    Line Color: \"Ultra-thin gray lines (0.5pt), similar to architectural draft lines\"\n\n  Typography:\n    Headings: \"Mix of serif (Didot, Bodoni) and sans serif (Helvetica)\"\n    Body: \"Small-size text aligned strictly to the grid\"\n    Numbers: \"Typewriter-style fonts (Courier New)\"\n\nSlide Composition Patterns:\n\n  # --- Cover / Concept ---\n  Section: \"Cover / Concept\"\n  Layout Type: \"Triple Collage\"\n  Design Details:\n    - \"Structure: Screen divided into three sections with grid lines\"\n    - \"Visuals: Monochrome cut-out portraits\"\n    - \"Accents: Neon yellow circles and squares behind or in front of the subject\"\n    - \"Decoration: Concentric rings (target-scope style) placed around the focal point\"\n\n  # --- Analysis / Diagram ---\n  Section: \"Analysis / Dissection\"\n  Layout Type: \"Technical Drawing\"\n  Design Details:\n    - \"Background: Fine grid similar to graph paper\"\n    - \"Main: Line-art / wireframe illustrations of products or concepts, partially filled in neon yellow\"\n    - \"Annotations: Thin leader lines with blueprint-style labels (e.g., Fig.1, Fig.2)\"\n\n  # --- Process / Flow ---\n  Section: \"Process / Flow\"\n  Layout Type: \"Geometric Connection\"\n  Design Details:\n    - \"Elements: Neon yellow circles, squares, triangles\"\n    - \"Connections: Dotted or dashed lines linking shapes to express logic flow\"\n    - \"Photography: Use shapes as masks to embed monochrome photos inside them\"\n\n  # --- Data / Infographic ---\n  Section: \"Data / Infographic\"\n  Layout Type: \"Radar Chart Art\"\n  Design Details:\n    - \"Chart: Large spiderweb-style radar chart across the slide\"\n    - \"Data Lines: Thick neon yellow plotting lines\"\n    - \"Background: Subtle texture resembling old maps or blueprints\"\n\nDesign Rules:\n  - \"Color Limitation: Use only three main colors — beige (background), monochrome (photos), neon yellow (geometry)\"\n  - \"Collage: Never place photos as plain rectangles; always cut out the subject cleanly\"\n  - \"Layering Order: Grid background → neon geometric shapes → monochrome cut-out photo → foreground text\"",
       "tags": [],
       "source": "https://note.com/yoshifujidesign/n/n7412bccb5762",
-      "section_order": 15
+      "section_order": 16
     },
     {
       "id": "digital-neo-pop",
@@ -192,7 +201,7 @@
       "prompt": "# presentation_design_spec_pop_jp.yaml\n# Style: Vitamin Pop / Digital Neo\n# Characteristics: Organic shapes, bright color palette, SNS-friendly visual tone\n\nGlobal Design Settings:\n  Design Theme: \"Digital Pop × Academic\"\n  Tone & Manner: \"Modern, fluid, friendly, high information density\"\n\n  Key Visuals:\n    Motifs: \"Organic amoeba-like or cloud-like shapes. Random placement around slide edges, partially cropped.\"\n    Decorations: \"Dot patterns, hand-drawn highlight strokes, SNS-style icon decorations\"\n\n  Color Palette:\n    Base: \"White (#FFFFFF) or light-gray dot-pattern background\"\n    Main Colors: \"Vivid pink, cyan, purple (neon-sign inspired)\"\n    Accent: \"Black (used for text and outlines to anchor the pop colors)\"\n    Chart Colors: \"Gradient-filled bars (e.g., green → yellow)\"\n\n  Typography:\n    Headings: \"Bold gothic type. Impact-focused. Outline text (white fill + black stroke) allowed.\"\n    Body: \"Highly readable gothic sans serif.\"\n    Numbers: \"Large Western type for emphasis, especially percentages.\"\n\nDesign Guidelines:\n  - Organic Shapes: \"Use irregular, hand-drawn, wavy shapes rather than strict rectangles or circles to express community fluidity.\"\n  - Icons: \"Prefer pop illustrations or abstract avatar icons (shapes with eyes, abstract faces) over photos of real people.\"\n  - Information Contrast: \"Balance text-heavy slides with highly visual slides.\"\n\nLayout Variations (Catalog):\n\n  - Type: \"Title Composition\"\n    Design: \"Place an organic blob or cloud shape at the center and position the title inside it. Add small stars and sparkles around it.\"\n\n  - Type: \"Text + Data Pop\"\n    Design: \"Split layout: left = text, right = colorful donut chart (vivid pink, cyan, purple). Emphasize numbers at extremely large scale.\"\n\n  - Type: \"Organic Timeline\"\n    Design: \"A wavy vertical line like a plant stem. Use leaf/bud-like icons at timeline milestones.\"\n\n  - Type: \"Bubble Cluster\"\n    Design: \"Overlapping translucent circles like soap bubbles. Use dot patterns in the background to enhance the pop feeling.\"\n\n  - Type: \"SNS Chat Style\"\n    Design: \"A smartphone-style frame containing chat bubbles and icons. Important insights highlighted with bold text or marker strokes. Speakers represented by differently colored amoeba-shaped icons.\"\n\n  - Type: \"Concept Formula / Flow Diagram\"\n    Design: \"Explain formulas like “Energy × Empathy” using hand-drawn arrows, icons, and crayon-like strokes.\"\n\n  - Type: \"Colorful Step Flow\"\n    Design: \"Large arrow flowing left → right. Each step in a different color (cyan → purple → pink). Clearly marks progression.\"\n\n  - Type: \"Lollipop Chart\"\n    Design: \"Use lollipop-style bars (round tips) or rounded bar charts. Color-code categories. Optionally overlay a line chart for combined visualization.\"\n\n  - Type: \"Sticker Grid\"\n    Design: \"Slightly tilted square cards, appearing taped or stickered on the slide. Mimics a collage of sticky notes.\"\n\n  - Type: \"Character Ending\"\n    Design: \"Place a cloud/amoeba character in the center. Arrange SNS icons (circular) around it to display contact information.\"\n\nAdditional Notes:\n  - Organic Shapes: \"Use hand-drawn, wavy shapes—not rigid geometric forms—to convey community fluidity.\"\n  - Icons: \"Mix monochrome cut-out photos with bright pop illustrations and abstract avatar icons (eyes, blobs) to maintain friendliness.\"\n  - Information Contrast: \"Ensure clear rhythm between dense-text pages and visual-heavy pages.\"",
       "tags": [],
       "source": "https://note.com/yoshifujidesign/n/n7412bccb5762",
-      "section_order": 16
+      "section_order": 17
     },
     {
       "id": "anti-gravity-artifact-deck",
@@ -205,7 +214,7 @@
       "prompt": "Style Name\nAnti-Gravity / Living Artifact Presentation\n1. Core Concept (This Matters Most)\nThis presentation is not a slide deck.\nIt is a living artifact.\nVisualizes thinking becoming structure\nFeels like an interface for ideas\nCalm, modern, confident, precise\nBuilt for agents, systems, and future workflows\nThink:\nApple-level clarity\nGoogle DeepMind research decks\nCalm AI infrastructure product launches\n2. Overall Aesthetic\nMinimal\nAiry\nHigh negative space\nNo visual noise\nEverything feels intentional and breathable\nEmotion:\n“This system already works. We are just showing you.”\n3. Background & Canvas\nPure white background as default\nAdd soft, flowing gradient accents:\nBlue → cyan → violet\nVery low opacity\nAppears on corners or edges only\nNever behind text\nGradients feel like:\nLight\nMotion\nEnergy\nAnti-gravity fields\nNo hard shapes. No grids. No textures.\n4. Typography System\nHeadlines\nClean, modern sans-serif\nSlightly rounded geometry\nMedium–bold weight\nCalm authority (not aggressive)\nExamples:\n“Anti-gravity”\n“Artifact”\n“Agent-controlled Browser”\nLanguage\n(the language should be what users said in the prompt) primary\nEnglish secondary labels\nEnglish often smaller and lighter\nHierarchy\nLarge headline\nOne concise explanatory sentence\nShort bullet or paragraph blocks\nNo long paragraphs.\n5. Color System\nUse very restrained color:\nPrimary text:\nBlack or very dark gray\nAccent color:\nCalm blue (used sparingly)\nUsed for:\nHeadline emphasis\nArrows\nKey icons\nGradients are decorative, not structural\nIf everything looks calm and confident, it’s correct.\n6. Layout Language\nLeft-aligned layouts\nClear reading flow\nWide margins\nLots of white space\nCommon structures:\nText on left, visual on right\nThree-column feature cards\nOne idea per slide\nSlides feel like product docs turned into visuals\n7. Visual Metaphors\nUse simple, conceptual metaphors:\nA. Thought → Structure\nMessy scribble illustration\nArrow\nClean diagram / checklist / UI\nThis shows:\n“Agents turn ambiguity into artifacts.”\nB. Interface as Proof\nRealistic browser / app screenshots\nCursor highlights\nClick indicators\nMessage:\n“The agent actually does this.”\nC. Cards as Capabilities\nSoft rounded rectangles\nSubtle shadows\nIcon + title + 1–2 lines\nNo decoration beyond function.\n8. Iconography\nThin-line icons\nOutline style\nConsistent stroke weight\nCalm and professional\nExamples:\nCode brackets\nNetwork / manager node\nBrowser window\nChecklist\nDiagram nodes\nNo pixel art. No emojis. No playful icons.\n9. Motion & Flow (Implied)\nEven in static slides, imply motion:\nArrows\nDirectional flow\nSequential layouts\nEverything suggests systems in operation, not static diagrams.\n10. Tone of Copy\nClear\nPrecise\nSlightly philosophical\nNo hype language\nAvoid:\nBuzzwords\nMarketing slogans\nEmotional exaggeration\n11. What to Avoid (Strict)\nNo pixel art\nNo thick borders\nNo bright blocks\nNo collage\nNo stickers\nNo loud contrasts\nIf it feels “fun”, it’s wrong.\nIf it feels “inevitable”, it’s right.\n12. Generation Instruction (Important)\nGenerate a cohesive multi-slide presentation following this system.\nMaintain:\nWhite space discipline\nSoft gradient accents\nCalm typographic hierarchy\nMinimal but meaningful visuals\nEvery slide should feel like part of one product narrative, not standalone posters.",
       "tags": [],
       "source": "",
-      "section_order": 17
+      "section_order": 18
     },
     {
       "id": "deformed-flat-persona",
@@ -218,7 +227,34 @@
       "prompt": "# Style:\n- Flat colors\n\n# Illustration:\n- A person with slightly deformed form\n- Thick outlines\n\n# Color:\n- Gentle tones with a bit of white mixed in\n- Up to 3 colors allowed\n\n# Outline:\n- Thick\n\n# Background:\n- Solid flat color with 1 color",
       "tags": [],
       "source": "",
-      "section_order": 18
+      "section_order": 19
+    },
+    {
+      "id": "awesome-notebooklm-infographic-style-library",
+      "title": "Awesome NotebookLM Infographic Style Library",
+      "images": [],
+      "prompt": "A compiled index of **+40 NotebookLM Infographic Styles**. This repository captures every publicly available detail from `notebooklm_41_styles_compiled.docx.md`, so you can copy the stylistic DNA straight into NotebookLM’s custom style field.",
+      "tags": [],
+      "source": "",
+      "section_order": 20
+    },
+    {
+      "id": "collection-overview",
+      "title": "Collection overview",
+      "images": [],
+      "prompt": "Each style specification follows a reusable template that highlights tone, palette, composition, texture, typography, and categorical tags. That structure turns the list into a prompt library where you can swap visual identities without re-inventing the prompt language for every deck.",
+      "tags": [],
+      "source": "",
+      "section_order": 21
+    },
+    {
+      "id": "consistency",
+      "title": "Consistency",
+      "images": [],
+      "prompt": "Every entry follows a single template (Overall Design Settings, Visual Identity, Image Style, Typography, Categories, etc.) so you can compare palettes, energy, and structural cues without searching for missing sections.",
+      "tags": [],
+      "source": "",
+      "section_order": 22
     },
     {
       "id": "additional-prompt-capsules",
@@ -267,8 +303,17 @@
         "Maximalist"
       ],
       "source": "",
-      "section_order": 19
+      "section_order": 23
+    },
+    {
+      "id": "static-site-github-pages",
+      "title": "Static site (GitHub Pages)",
+      "images": [],
+      "prompt": "node scripts/build-index.js",
+      "tags": [],
+      "source": "",
+      "section_order": 24
     }
   ],
-  "skipped_sections": 4
+  "skipped_sections": 0
 }
