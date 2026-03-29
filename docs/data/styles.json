@@ -3,15 +3,6 @@
   "total": 22,
   "styles": [
     {
-      "id": "table-of-contents",
-      "title": "Table of Contents",
-      "images": [],
-      "prompt": "- [modern newspaper](#modern-newspaper)\n- [sharp-edged minimalism](#sharp-edged-minimalism)\n- [yellow x black](#yellow-x-black)\n- [Black x Orange Style](#black-x-orange-style)\n- [Manga style](#manga-style)\n- [Magazine style](#magazine-style)\n- [Neo-Retro Dev Deck / Pixel-Infographic Editorial](#neo-retro-dev-deck--pixel-infographic-editorial)\n- [pink street-style](#pink-street-style)\n- [Mincho font + Handwritten MIX](#mincho-font--handwritten-mix)\n- [For seminar use, minimal text](#for-seminar-use-minimal-text)\n- [Royal blue and red](#royal-blue-and-red)\n- [Studio / Mockup / Premium](#studio--mockup--premium)\n- [Sports / Athletic / Energy](#sports--athletic--energy)\n- [Hand-Drawn / Sketch-Note](#hand-drawn--sketch-note)\n- [Blueprint / Engineering](#blueprint--engineering)\n- [Risograph / Bauhaus](#risograph--bauhaus)\n- [Ukiyo-e / Japanese Woodblock Print](#ukiyo-e--japanese-woodblock-print)\n- [Vintage Comic / Pop Art](#vintage-comic--pop-art)\n- [Cyberpunk / Hacker CRT Terminal](#cyberpunk--hacker-crt-terminal)\n- [Cyberpunk Glitch / Red HUD Terminal](#cyberpunk-glitch--red-hud-terminal)\n- [Blueprint / Technical Schematic](#blueprint--technical-schematic)\n- [Vintage Botanical / Scientific Illustration](#vintage-botanical--scientific-illustration)\n- [Neo-Vintage Belle Époque / Art Nouveau (Alphonse Mucha)](#neo-vintage-belle-épogue--art-nouveau-alphonse-mucha)\n- [Risograph / Retro-Educational / Zine](#risograph--retro-educational--zine)\n- [Minimalist Flat Design / Clean Tech Timeline](#minimalist-flat-design--clean-tech-timeline)\n- [Corporate Bento Grid / Tech Spec](#corporate-bento-grid--tech-spec)\n- [Usage guidance](#usage-guidance)\n- [Missing entries](#missing-entries)",
-      "tags": [],
-      "source": "",
-      "section_order": 1
-    },
-    {
       "id": "modern-newspaper",
       "title": "modern newspaper",
       "images": [
@@ -230,15 +221,6 @@
       "section_order": 19
     },
     {
-      "id": "awesome-notebooklm-infographic-style-library",
-      "title": "Awesome NotebookLM Infographic Style Library",
-      "images": [],
-      "prompt": "A compiled index of **+40 NotebookLM Infographic Styles**. This repository captures every publicly available detail from `notebooklm_41_styles_compiled.docx.md`, so you can copy the stylistic DNA straight into NotebookLM’s custom style field.",
-      "tags": [],
-      "source": "",
-      "section_order": 20
-    },
-    {
       "id": "collection-overview",
       "title": "Collection overview",
       "images": [
@@ -286,15 +268,6 @@
       ],
       "source": "",
       "section_order": 21
-    },
-    {
-      "id": "static-site-github-pages",
-      "title": "Static site (GitHub Pages)",
-      "images": [],
-      "prompt": "node scripts/build-index.js",
-      "tags": [],
-      "source": "",
-      "section_order": 22
     }
   ],
   "skipped_sections": 0
