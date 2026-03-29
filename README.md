@@ -541,6 +541,325 @@ Tags: ["Ecosystem", "Systems Map", "Strategy", "Conceptual", "Overview"]
 Preview image:  
 ![Circular Ecosystem Map](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-8zsxgjrrvwdg1.png?width=1080&crop=smart&auto=webp&s=db87ddf8683b898f07f1427ffe54c7a7c8d696cf)
 
+16. **Schematic / Architectural**
+
+```text
+Overall Design Settings:
+
+Tone: "Analytical, Precise, Pedagogical, Structured, Professional"
+
+Visual Identity:
+
+Background Color: "#F9F9F9"
+Text Color: "#222222"
+Accent Color: "#5B9BD5"
+Secondary Colors: ["#C0392B", "#EAF4FC", "#888888", "#FFFFFF", "#D3D3D3"]
+
+Image Style:
+
+Features: "Technical line art, dimension markers, architectural floor plan symbols, isometric diagrams, directional flow arrows"
+Texture: "Flat digital paper, smooth vector lines, schematic cleanliness"
+Composition: "Split-screen comparative layout, hierarchical vertical flow, balanced whitespace, grid-aligned diagrams"
+Lighting: "Flat diagrammatic lighting, consistent uniform visibility, no gradients"
+Line Weight: "Thin, precise strokes (1px-2px) for structures; dashed lines for logic flow"
+Diagrammatic Elements: "Floor plan outlines, dimension lines with measurements, isometric staircase, flowchart boxes"
+Visual Aids: "Blue fills for active elements, Red dashed arrows for transitions or errors"
+
+Typography:
+
+Heading: "Bold Sans-Serif (Gothic/Helvetica)"
+Body Font: "Medium weight Sans-Serif, highly legible"
+Label Font: "Condensed Sans-Serif or Monospace for technical specs"
+Hierarchy: "Large top-level header, distinct section headers, small annotation text"
+Categories:
+
+Tags: ["Schematic", "Architectural", "Process Mapping", "Technical", "Educational"]
+```
+
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-ohbg124z1pcg1.png?width=2752&format=png&auto=webp&s=a565e58b2af36d965dbc5c0118196bdd4ff7a846)
+
+17. **Cyberpunk / Sci-Fi Interface**
+
+```text
+Overall Design Settings:
+
+Tone: "Futuristic, Analytical, Sophisticated, High-Tech, Cinematic"
+
+Visual Identity:
+
+Background Color: "#020814"
+Text Color: "#FFFFFF"
+Accent Color: "#00F0FF"
+Secondary Colors: ["#D600FF", "#0057FF", "#1C2E4A", "#80DEEA", "#1A1A2E"]
+
+Image Style:
+
+Features: "Isometric 3D rendered assets floating on platforms, interconnected by glowing circuit board traces. Holographic projection aesthetics with glass-like panels and digital artifacts."
+Texture: "Luminous neon, matte dark metal, translucent glass, smooth digital gradients, clean wireframe edges."
+Composition: "Centralized hub-and-spoke layout. A core element anchors the design (center chip), with connection lines leading to peripheral detailed modules. Enclosed in a technical HUD (Heads-Up Display) frame."
+Lighting: "Internal luminescence (glow from within), neon backlighting, soft bloom effects, sharp specular highlights on metallic edges, deep high-contrast shadows."
+Perspective: "Isometric 3D"
+Effects: "Bloom, Lens Flare, Digital Noise"
+Structure: "Circuit Board Trace Connectivity"
+
+Typography:
+
+Heading: "Industrial Geometric Sans-Serif (e.g., Eurostile Bold, Orbitron)"
+Body Font: "Clean Modern Sans-Serif (e.g., Roboto, Open Sans)"
+Case: "Uppercase for Headers, Sentence case for descriptions"
+Styling: "High contrast white text against dark backgrounds, occasional accent color highlights"
+Categories:
+
+Tags: ["Cyberpunk", "Sci-Fi Interface", "Isometric 3D", "Data Visualization", "Futuristic"]
+
+
+```
+
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-x2ctrky12pcg1.png?width=1080&crop=smart&auto=webp&s=29c4f66e9c77d479f608ff1d1ebf461edd96e30a)
+
+18. **Risograph / Retro-Pop**
+
+```text
+Overall Design Settings:
+
+Tone: "Analytic yet playful, structured, conceptual, and instruction-oriented"
+
+Visual Identity:
+
+Background Color: "#F6F3E6"
+Text Color: "#00569E"
+Accent Color: "#DE2A2A"
+Secondary Colors: ["#663399", "#A6D4F2", "#2B2B2B", "#FFFFFF"]
+
+Image Style:
+
+Features: "Duotone ink simulation, misregistration effects, bold iconography, numbered sequences"
+Texture: "Coarse paper grain, stippled shading, ink bleed, noise overlap"
+Composition: "Modular grid with numbered sections, visual metaphor on left with steps on right"
+Lighting: "Flat illustration style with simulated overprinting shadows (multiply blending)"
+Shading Technique: "Halftone dots and cross-hatching"
+Border Style: "Rough, hand-drawn stroke look with slight offset"
+Iconography: "Simplified flat glyphs with texture"
+
+Typography:
+
+Heading: "Heavy Gothic Sans-Serif"
+Body Font: "Medium weight Sans-Serif (Legible at small sizes)"
+Formatting: "High contrast color-blocking for key phrases"
+Character Style: "Blocky, authoritative but approachable"
+Tags: ["Risograph", "Retro-Pop", "Educational", "Halftone", "Schematic"]
+
+```
+
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-fhvndj652pcg1.png?width=1080&crop=smart&auto=webp&s=6487da14c014e8563b4f25cba9a0d0651091c02c)
+
+19. **Retro Pop / American Diner**
+
+```text
+Overall Design Settings:
+
+Tone: "Energetic, Nostalgic, Instructional, Playful, Bold"
+
+Visual Identity:
+
+Background Color: "#9ED9CC"
+Text Color: "#111111"
+Accent Color: "#E84E45"
+Secondary Colors: ["#F6C0C7", "#FFFFFF", "#B0B7BD", "#F2C865", "#5CCFE6"]
+
+Image Style:
+
+Features: "Split-screen layout (Mint/Pink), comic book character illustrations, speech bubbles, chrome arrow connectors, checkerboard borders."
+Texture: "Subtle halftone patterns, matte paper finish contrasting with glossy metallic rendering on UI elements."
+Composition: "Bilateral symmetry with a vertical chrome divider, heavy top and bottom banners, central flow diagrams."
+Lighting: "Flat illustrative lighting with specific specular highlights on chrome arrows and neon glow effects on signage."
+Border Style: "Black and white racing checkerboard"
+Line Work: "Thick varied-weight black ink outlines"
+Motifs: "Gears, Burgers, Shakes, Diamonds, Neon Signs"
+
+Typography:
+
+Heading: "Heavy Impact Retro Display with White Outline and Drop Shadow"
+Body Font: "Clean, legible Gothic Sans-Serif"
+Text Decoration: "Stroked text borders, extruded 3D effects on titles"
+Formatting: "Comic speech bubbles and rectangular narrative boxes"
+Categories:
+
+Tags: ["Retro Pop", "American Diner", "Vintage Comic", "Split-Screen", "Americana"]
+
+```
+
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-qzvunb672pcg1.png?width=2752&format=png&auto=webp&s=c824026a74603f118d1ebb16b73a78d1897549f3)
+
+20. **Manga / Instructional Comic**
+
+```text
+Overall Design Settings:
+
+Tone: "Energetic, expressive, narrative-driven, and highly instructional with a dramatic flair."
+
+Visual Identity:
+
+Background Color: "#FFFFFF"
+Text Color: "#000000"
+Accent Color: "#1A1A1A"
+Secondary Colors: ["#4D4D4D", "#808080", "#B3B3B3", "#E6E6E6", "#F2F2F2"]
+
+Image Style:
+
+Features: "Dynamic comic paneling, expressive character acting (chibi/shonen style), heavy use of speed lines (beta flash), impact bursts, and integrated process diagrams."
+Texture: "Traditional ink aesthetics with halftone screentones (dots) for shading, crisp varied line weights, and paper-like contrast."
+Composition: "Asymmetric multi-panel layout with diagonal cuts to guide eye movement, narrative progression from problem (chaos) to solution (clarity)."
+Lighting: "High-contrast binary lighting using black fills and white negative space, with depth created via screentone gradients and radial focus lines."
+Line Work: "G-pen style varying width ink lines"
+Visual Metaphors: "Lightbulbs, gears, sweat drops, jagged speech bubbles"
+Backgrounds: "Abstract mood patterns (gloom vs radiance)"
+
+Typography:
+
+Heading: "Heavy Brush/Distorted SFX Style"
+Body Font: "Clean Rounded Sans-Serif (Legible inside bubbles)"
+Emphasis: "Bold, larger point size, and jagged outlines for key terms"
+Sound Effects: "Hand-lettered katakana styles"
+
+Tags: ["Manga", "Instructional Comic", "High-Contrast", "Storytelling", "Sketch Note"]
+
+
+
+```
+
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-4jcczk3a2pcg1.png?width=1080&crop=smart&auto=webp&s=62cfc00dc6d31d17009b352ed5e5a15443b2eaa4)
+
+21. **Retro-Travel / Passport UI**
+
+```text
+Overall Design Settings:
+
+Tone: "Adventurous, official, textured, inviting, bureaucratic-chic"
+
+Visual Identity:
+
+Background Color: "#F5F2E9"
+Text Color: "#2D2D2D"
+Accent Color: "#FF7F50"
+Secondary Colors: ["#E84A5F", "#88B085"]
+
+Image Style:
+
+Features: "Passport booklet mockup, ink stamps, visa stickers, barcode elements, gradient typography"
+Texture: "Matte paper grain, porous ink bleed, subtle fiber noise, worn edges"
+Composition: "Asymmetrical split layout with object anchor on left and typographic hierarchy on right"
+Lighting: "Soft flat-lay scanning light, diffuse ambient occlusion, high-key luminosity"
+Stamps: "Overlapping circular and rectangular ink stamps in varied colors"
+Gradients: "Warm orange-to-pink linear gradient on primary headline text"
+
+Typography:
+
+Heading: "Bold Geometric Sans-Serif"
+Body Font: "Clean Humanist Sans-Serif"
+Data Font: "Monospaced Typewriter/Console"
+Weights: "Heavy for headlines, Regular for body copy"
+
+Tags: ["Retro-Travel", "Passport-UI", "Paper-Texture", "Warm-Gradient", "Typography-Heavy"]
+
+```
+
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-7h15vc0xapcg1.png?width=640&crop=smart&auto=webp&s=70346b297d7311ae167fd3ce6fcfab5081819d97)
+
+
+22. **Hand-Drawn / Sketch-Note**
+
+```text
+Overall Design Settings:
+
+Tone: "Authentic, intellectual, informal, creative, and instructional."
+
+Visual Identity:
+
+Background Color: "#F4F1EA"
+Text Color: "#0E2A5C"
+Accent Color: "#D12828"
+Secondary Colors: ["#C8AB83"]
+
+Image Style:
+
+Features: "Hand-drawn diagrams, spiral binding, coffee ring stains, arrows, stick figures, speech bubbles, stars for emphasis."
+Texture: "Matte paper grain, horizontal rule lines, ink bleed, liquid staining artifacts."
+Composition: "Top-down flowchart logic, loose organic grouping, utilization of white space for arrows and notes."
+Lighting: "Flat, bright, natural ambient light simulating a desktop scan."
+Line Quality: "Variable weight gel pen with natural jitter"
+Artifacts: "Coffee rings, spiral wire shadows on left margin"
+Structure: "Rule-lined paper background"
+
+Typography:
+
+Heading: "Handwritten Marker Bold"
+Body Font Style: "Casual Cursive/Print Hybrid"
+Highlighting Method: "Red ink underlining and boxing"
+Character Set: "Japanese Kanji/Kana mixed with symbols"
+Categories:
+
+Tags: ["Hand-drawn", "Brainstorming", "Educational", "Analogue", "Sketch-note"]
+```
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-42cij5kd5pcg1.png?width=640&crop=smart&auto=webp&s=13e1c38512ecec3b647085593d36042ddcd90a15)
+Image:
+
+23. **Blueprint / Engineering**
+
+```text
+Overall Design Settings:
+
+Tone: "Analytical, precise, structural, educational, and authoritative."
+
+Visual Identity:
+
+Background Color: "#1C4E80"
+Text Color: "#FFFFFF"
+Accent Color: "#E85D5D"
+Secondary Colors: ["#F2D64B", "#8FBCE6"]
+
+Image Style:
+
+Features: "CAD-inspired layout, mechanical gear motifs, flowchart connectors, and modular information blocks."
+Texture: "Subtle paper grain background with a precise, fine-line vector grid overlay."
+Composition: "Split-panel logic flow (Problem vs Solution), framed by technical borders with measurement ticks."
+Lighting: "Flat, high-contrast schematic lighting with no gradients, emphasizing line clarity."
+Grid System: "Uniform white square mesh overlay."
+Highlights: "Rough, chalk-like yellow brush strokes for emphasis."
+UI Elements: "CAD footer bar containing scale, date, and author metadata."
+
+Typography:
+
+Heading: "Bold Geometric Sans-Serif"
+Body: "Clean, Monolinear Sans-Serif"
+Weights: "Heavy for main titles, Medium for section headers, Regular for descriptions"
+Alignment: "Left-aligned for text blocks, centered for diagrams"
+Categories:
+
+Tags: ["Blueprint", "Technical", "Engineering", "Process Flow", "Industrial"]
+```
+
+Image:
+![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-yds9qrvg5pcg1.png?width=640&crop=smart&auto=webp&s=7d2ba040ac56a0ff284128a004f157988f3d3ee4)
+24. **Risograph / Bauhaus**
+
+```text
+Overall Design Settings:
+
+Tone: "Analytical, Structural, Modern Retro, Instructional"
+
+Visual Identity:
+
+Background Color: "#F4F1E8"
+Text Color: "#2D2D2D"
+Accent Color: "#D94646"
+Secondary Colors: ["#2C65A6", "#F2C044"]
+
+Image Style:
+
+Features: "Overlapping geometric primitives (circles, triangles, squares), multiply blending modes creating secondary hues, directional flow with arrows, iconography."
+Texture: "Subtle risograph grain, matte paper finish, ink-b
+
 16. **Ukiyo-e / Japanese Woodblock Print**
 
 ```text
