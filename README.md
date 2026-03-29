@@ -317,7 +317,6 @@ Categories:
 Tags: ["Manga Style", "Comic Strip", "Instructional", "Monochrome", "Dynamic Action"]
 ```
 
-Preview image:  
 ![Manga Action Panels](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-6onglksrvwdg1.png?width=1080&crop=smart&auto=webp&s=20fff2efbadf52e80318f9b67c880307ac6dd62c) 
 
 9. **Corporate Radial Timeline**
@@ -351,7 +350,6 @@ Categories:
 Tags: ["Corporate", "Infographic", "Process Flow", "Clean Design", "Radial Layout"]
 ```
 
-Preview image:  
 ![Corporate Radial Timeline](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-ogyrk6orvwdg1.png?width=1080&crop=smart&auto=webp&s=aebe50273b339e84ad4cce0c65e40ab50d9dc231) 
 
 10. **Neon Tech Flowchart**
@@ -385,7 +383,6 @@ Categories:
 Tags: ["Cyberpunk", "Dark Mode", "Tech-Infographic", "Neon-Glow", "Process-Flow"]
 ```
 
-Preview image:  
 ![Neon Tech Flowchart](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-8zk43yrrvwdg1.png?width=1080&crop=smart&auto=webp&s=cddff70684091bd9bf21e8fbeab2426c8e270904) 
 
 11. **Minimal Data Dashboard**
@@ -417,7 +414,6 @@ Categories:
 Tags: ["Dashboard", "Analytics", "Minimalist", "Data-First", "Corporate"]
 ```
 
-Preview image:  
 ![Minimal Data Dashboard](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-gqitljrrvwdg1.png?width=1080&crop=smart&auto=webp&s=b0ee5c8bd4c17e782843a04a63b3d0b6ffc8989c)
 
 12. **Gradient Funnel Journey**
@@ -448,7 +444,6 @@ Categories:
 Tags: ["Marketing", "Funnel", "Customer Journey", "Conversion", "Business"]
 ```
 
-Preview image:  
 ![Gradient Funnel Journey](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-aec96jsrvwdg1.png?width=1080&crop=smart&auto=webp&s=f7c71d758b3801ea7b7c292336218d6143bb4dd7)
 
 13. **Classroom Chalkboard Diagram**
@@ -478,7 +473,6 @@ Categories:
 Tags: ["Education", "Mind Map", "Whiteboard", "Hand-Drawn", "Lessons"]
 ```
 
-Preview image:  
 ![Classroom Chalkboard Diagram](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-vgg187srvwdg1.png?width=1080&crop=smart&auto=webp&s=3b4d7233983e67d4ff30c5cbe9c504e4e62f0be0)
 
 14. **Product One‑Pager Sheet**
@@ -508,7 +502,6 @@ Categories:
 Tags: ["Product Sheet", "Sales", "SaaS", "One-Pager", "Marketing Collateral"]
 ```
 
-Preview image:  
 ![Product One‑Pager Sheet](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-9brpdlrrvwdg1.png?width=1080&crop=smart&auto=webp&s=92a11a4b1fca191af7cfb65f13226e9c376b2da2)
 
 15. **Circular Ecosystem Map**
@@ -538,7 +531,6 @@ Categories:
 Tags: ["Ecosystem", "Systems Map", "Strategy", "Conceptual", "Overview"]
 ```
 
-Preview image:  
 ![Circular Ecosystem Map](https://preview.redd.it/8-incredible-notebooklm-infographic-styles-v0-8zsxgjrrvwdg1.png?width=1080&crop=smart&auto=webp&s=db87ddf8683b898f07f1427ffe54c7a7c8d696cf)
 
 16. **Schematic / Architectural**
@@ -802,7 +794,6 @@ Categories:
 Tags: ["Hand-drawn", "Brainstorming", "Educational", "Analogue", "Sketch-note"]
 ```
 ![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-42cij5kd5pcg1.png?width=640&crop=smart&auto=webp&s=13e1c38512ecec3b647085593d36042ddcd90a15)
-Image:
 
 23. **Blueprint / Engineering**
 
@@ -839,7 +830,6 @@ Categories:
 Tags: ["Blueprint", "Technical", "Engineering", "Process Flow", "Industrial"]
 ```
 
-Image:
 ![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-yds9qrvg5pcg1.png?width=640&crop=smart&auto=webp&s=7d2ba040ac56a0ff284128a004f157988f3d3ee4)
 24. **Risograph / Bauhaus**
 
