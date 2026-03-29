@@ -53,6 +53,8 @@ Categories:
 Tags: ["Psychedelic", "Retro Pop", "70s Aesthetic", "Flower Power", "Maximalist"]
 ```
 
+[Preview Image](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7)
+
 2. **Competitive versus action**
 ```
 Overall Design Settings:
@@ -80,6 +82,8 @@ Styling: "Thick black outlines, gradient fills (gold/silver), drop shadows"
 Categories:
 Tags: ["Gamification", "Anime Aesthetic", "Versus Mode", "High-Energy", "Cyber vs Traditional"]
 ```
+
+[Preview Images](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-q1mntubnl3dg1.png?width=1080&crop=smart&auto=webp&s=299a57af2c012d64460eaea04aad18473485541a)
 
 3. **Denim craft instructional**
 ```
@@ -272,89 +276,6 @@ Labeling: "Contextual, placed directly on objects (sticky notes, screens)"
 Categories:
 Tags: ["Knolling", "Split-Screen", "Pastel", "Flat Lay", "Minimalist"]
 ```
-
-## Representative accessible styles
-The excerpts below reflect every publicly described style that the compiled document exposes in detail.
-
-1. **Playful pastel education style** (Prompt capsule 1)
-   - Tone: Playful, energetic, whimsical, engagingly educational.
-   - Palette: Background `#FFF9C4`, text `#2A0A4A`, accent `#FF6E40`, secondaries `#F06292`, `#4DD0E1`, `#9575CD`, `#AED581`, `#FFAB00`.
-   - Visual identity: Wavy rainbow borders, nature motifs, thick outlines, radiating sunbursts.
-   - Prompt: copy the block under “Playful pastel education” above.
-   - Demo image: ![Playful pastel education preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7)
-   - Full screen preview: https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-7qz3mw3ql3dg1.png?width=1080&crop=smart&auto=webp&s=aa8b2b2bf12e39fc6a69abe74aee32f5831957b7
-
-2. **Gatsby / Art Deco luxury style** (Prompt capsule 5)
-   - Tone: Sophisticated, authoritative, opulent, dramatic.
-   - Palette: Background `#050507`, text `#F2E6CF`, accent `#D4AF37`.
-   - Visual identity: Intricate geometric borders, fan motifs, metallic gradients.
-   - Prompt: copy the block under “Gatsby / Art Deco luxury style” above.
-   - Demo image: ![Gatsby / Art Deco luxury preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0)
-   - Full screen preview: https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-32bomv3ql3dg1.png?width=1080&crop=smart&auto=webp&s=7df1e4238806e383268e47cf2aaa6f2fc238b9b0
-
-3. **Isometric textbook diagram style** (Prompt capsule 6)
-   - Tone: Educational, diagrammatic, precise.
-   - Palette: Background `#FBFBFB`, text `#222222`, accent `#7FA1C3` with muted secondaries.
-   - Visual identity: Isometric 3D blocks, dashed flows, grid texture.
-   - Prompt: copy the block under “Isometric textbook diagram style” above.
-   - Demo image: ![Isometric textbook diagram preview](https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-mp85uvbnl3dg1.png?width=1080&crop=smart&auto=webp&s=1feb2003c0ae489560036a588dd47e1d08e6addd)
-   - Full screen preview: https://preview.redd.it/12-fabulous-notebooklm-infographic-slide-deck-graphic-styles-v0-mp85uvbnl3dg1.png?width=1080&crop=smart&auto=webp&s=1feb2003c0ae489560036a588dd47e1d08e6addd
-
-4. **Clay stop-motion explainer style**
-   - Tone: Whimsical, approachable, tactile.
-   - Visual identity: Clay characters, rounded speech bubbles, embossed/cut-out textures.
-   - Typography: Rounded sans-serif headings with hand-lettered bounce, bold body text.
-   - Prompt: available from the “9 Creative” source post; not yet transcribed here.
-   - Demo image: (add when available, e.g., `demo/clay-stop-motion-explainer.png`).
-
-5. **Analytical schematic / floor-plan style**
-   - Tone: Analytical, precise, structured.
-   - Visual identity: Technical line art, dimension markers, architectural floor-plan cues.
-   - Composition: Split-screen comparisons, balanced whitespace, grid alignment.
-   - Prompt: from the “5 Practical” post; pending transcription.
-   - Demo image: (placeholder `demo/analytical-schematic-floorplan.png`).
-
-6. **CAD-inspired mechanical process style**
-   - Tone: Analytical, structural, authoritative.
-   - Palette: Background `#1C4E80`, text white, accent `#E85D5D`.
-   - Visual identity: CAD modules, gear motifs, flowchart connectors.
-   - Prompt: from the “5 Practical” post; pending transcription.
-   - Demo image: (placeholder `demo/cad-inspired-mechanical-process.png`).
-
-7. **Engineering blueprint schematic style**
-   - Tone: Technical, precise, industrial.
-   - Palette: Background `#0b1623`, text `#f0f0f0`, accent `#ff9f30`.
-   - Visual identity: Exploded wireframes, drafting grids, angular leader lines.
-   - Prompt: from the “7x Fantastic” post; pending transcription.
-   - Demo image: (placeholder `demo/engineering-blueprint-schematic.png`).
-
-8. **Sumi-e tech scroll style**
-   - Tone: Balanced, meditative, fusion of craft and tech.
-   - Visual identity: Bilateral symmetry, ink-density shading, parchment textures.
-   - Typography: Classical serif (Garamond/Caslon) with artistic density.
-   - Prompt: from the “7x Fantastic” post; pending transcription.
-   - Demo image: (placeholder `demo/sumi-e-tech-scroll.png`).
-
-9. **Manga action infographic style**
-   - Tone: High-energy, narrative, dramatic.
-   - Palette: Background white, text black, accent bright red.
-   - Visual identity: Speed lines, jagged speech bubbles, halftone shading.
-   - Prompt: from the “8 Incredible” post; pending transcription.
-   - Demo image: (placeholder `demo/manga-action-infographic.png`).
-
-10. **Corporate radial process style**
-    - Tone: Neutral, strategic, process-focused.
-    - Visual identity: Semi-circular timeline, segmented arcs, flat vector icons.
-    - Typography: Clean modern sans serif.
-    - Prompt: from the “8 Incredible” post; pending transcription.
-    - Demo image: (placeholder `demo/corporate-radial-process.png`).
-
-11. **Cyberpunk dark-mode flowchart style**
-    - Tone: Futuristic, neon, logical.
-    - Palette: Background `#080a12`, accent `#00c4fa`, purple/blue-gray tones.
-    - Visual identity: Glowing borders, translucent fills, schematic icons.
-    - Prompt: from the “8 Incredible” post; pending transcription.
-    - Demo image: (placeholder `demo/cyberpunk-dark-mode-flowchart.png`).
 
 ## Usage guidance
 Copy the descriptive block of one of these styles (from the prompt capsules or the source posts mentioned above) into NotebookLM’s custom style field to align your infographic or slide deck output with the intended aesthetic. Focus on the palette, motifs, textures, typography, and category cues to preserve each style’s visual DNA.
