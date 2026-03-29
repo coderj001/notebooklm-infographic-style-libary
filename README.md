@@ -908,11 +908,6 @@ A compiled index of **+40 NotebookLM Infographic Styles**. This repository captu
 ## Collection overview
 Each style specification follows a reusable template that highlights tone, palette, composition, texture, typography, and categorical tags. That structure turns the list into a prompt library where you can swap visual identities without re-inventing the prompt language for every deck.
 
-## Consistency
-Every entry follows a single template (Overall Design Settings, Visual Identity, Image Style, Typography, Categories, etc.) so you can compare palettes, energy, and structural cues without searching for missing sections.
-
-## Additional prompt capsules
-Copy-paste any of the following NotebookLM style blocks into the custom style field to unlock the corresponding aesthetic.
 
 1. **Playful pastel education**
 ```

@@ -11,6 +11,9 @@ const tagFilters = document.getElementById('tagFilters');
 const countEl = document.getElementById('count');
 const searchInput = document.getElementById('searchInput');
 const heroMedia = document.getElementById('heroMedia');
+const heroSentinel = document.getElementById('heroSentinel');
+const filtersEl = document.querySelector('.filters');
+const filtersSpacer = document.getElementById('filtersSpacer');
 
 const detailView = document.getElementById('detailView');
 const detailBack = document.getElementById('detailBack');
@@ -115,6 +118,45 @@ function applyFilters() {
   state.filtered = state.styles.filter(matches);
   countEl.textContent = state.filtered.length;
   renderGallery();
+}
+
+function updateFiltersSpacer() {
+  if (!filtersEl || !filtersSpacer) return;
+  if (document.body.classList.contains('filters-fixed')) {
+    const height = filtersEl.offsetHeight;
+    filtersSpacer.style.height = `${height}px`;
+  } else {
+    filtersSpacer.style.height = '0px';
+  }
+}
+
+function initFiltersObserver() {
+  if (!heroSentinel || !filtersEl) return;
+  if (!('IntersectionObserver' in window)) {
+    document.body.classList.remove('filters-fixed');
+    updateFiltersSpacer();
+    return;
+  }
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        document.body.classList.remove('filters-fixed');
+      } else {
+        document.body.classList.add('filters-fixed');
+      }
+      updateFiltersSpacer();
+    });
+  });
+  observer.observe(heroSentinel);
+
+  if ('ResizeObserver' in window) {
+    const resizeObserver = new ResizeObserver(() => {
+      updateFiltersSpacer();
+    });
+    resizeObserver.observe(filtersEl);
+  } else {
+    window.addEventListener('resize', updateFiltersSpacer);
+  }
 }
 
 function renderHeroMosaic() {
@@ -251,6 +293,8 @@ detailCopy.addEventListener('click', () => {
 
 window.addEventListener('hashchange', handleHash);
 
+initFiltersObserver();
+
 fetch('data/styles.json')
   .then((res) => res.json())
   .then((data) => {
@@ -263,6 +307,7 @@ fetch('data/styles.json')
     renderHeroMosaic();
     renderTags();
     applyFilters();
+    updateFiltersSpacer();
     handleHash();
     attachParallax();
   })
