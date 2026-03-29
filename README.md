@@ -1740,6 +1740,8 @@ Tags: ["Blueprint", "Technical", "Engineering", "Process Flow", "Industrial"]
 ```
 
 ![Preview Image](https://preview.redd.it/5-practical-infographic-design-styles-for-notebooklm-vol-2-v0-yds9qrvg5pcg1.png?width=640&crop=smart&auto=webp&s=7d2ba040ac56a0ff284128a004f157988f3d3ee4)
+
+
 24. **Risograph / Bauhaus**
 
 ```text
@@ -2104,6 +2106,24 @@ Tags: ["Bento Grid", "Tech Minimalist", "Data Visualization", "Corporate Modern"
 
 ## Usage guidance
 Copy the descriptive block of one of these styles (from the prompt capsules or the source posts mentioned above) into NotebookLM’s custom style field to align your infographic or slide deck output with the intended aesthetic. Focus on the palette, motifs, textures, typography, and category cues to preserve each style’s visual DNA.
+
+## Static site (GitHub Pages)
+This repo includes a static gallery site in `site/` that renders all styles with search and tag filters.
+
+Build the index:
+```
+node scripts/build-index.js
+```
+
+Serve locally (any static server works):
+```
+python -m http.server --directory site 8080
+```
+
+GitHub Pages setup:
+- Settings → Pages → Build and deployment
+- Source: Deploy from a branch
+- Branch: `main` / `site` (root)
 
 ## Missing entries
 The source index references 41 styles total, but only the 11 listed above are exposed in full within the compiled document. The remaining styles live in their respective source posts but are not yet fully transcribed into this repository; add them as the prompts and demo imagery become available.
